@@ -1,0 +1,73 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/issue_148_exdate_and_rdate_updated.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2024-07-02",
+                    "tzid": null,
+                    "utc": "2024-07-01T23:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-07-01",
+                    "tzid": null,
+                    "utc": "2024-06-30T23:00:00+00:00"
+                },
+                "sequence": 2,
+                "start": {
+                    "iso": "2024-07-01",
+                    "tzid": null,
+                    "utc": "2024-06-30T23:00:00+00:00"
+                },
+                "uid": "111"
+            },
+            {
+                "end": {
+                    "iso": "2024-07-16",
+                    "tzid": null,
+                    "utc": "2024-07-15T23:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-07-15",
+                    "tzid": null,
+                    "utc": "2024-07-14T23:00:00+00:00"
+                },
+                "sequence": 2,
+                "start": {
+                    "iso": "2024-07-15",
+                    "tzid": null,
+                    "utc": "2024-07-14T23:00:00+00:00"
+                },
+                "uid": "111"
+            },
+            {
+                "end": {
+                    "iso": "2024-07-31",
+                    "tzid": null,
+                    "utc": "2024-07-30T23:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-07-30",
+                    "tzid": null,
+                    "utc": "2024-07-29T23:00:00+00:00"
+                },
+                "sequence": 2,
+                "start": {
+                    "iso": "2024-07-30",
+                    "tzid": null,
+                    "utc": "2024-07-29T23:00:00+00:00"
+                },
+                "uid": "111"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/issue_148_edge_case_1.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2024-07-08",
+                    "tzid": null,
+                    "utc": "2024-07-07T23:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-07-01",
+                    "tzid": null,
+                    "utc": "2024-06-30T23:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2024-07-01",
+                    "tzid": null,
+                    "utc": "2024-06-30T23:00:00+00:00"
+                },
+                "uid": "111"
+            },
+            {
+                "end": {
+                    "iso": "2024-08-05",
+                    "tzid": null,
+                    "utc": "2024-08-04T23:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-07-29",
+                    "tzid": null,
+                    "utc": "2024-07-28T23:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2024-07-29",
+                    "tzid": null,
+                    "utc": "2024-07-28T23:00:00+00:00"
+                },
+                "uid": "111"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}

@@ -1,0 +1,695 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/alarm_removed_and_moved.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [
+            {
+                "acknowledged": true,
+                "parent": {
+                    "end": {
+                        "iso": "2023-11-16T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-11-16T09:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2023-11-16T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-11-16T09:00:00+00:00"
+                    },
+                    "sequence": 1,
+                    "start": {
+                        "iso": "2023-11-16T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-11-16T09:00:00+00:00"
+                    },
+                    "uid": "8f9e0f14-a130-4270-88b1-045c5cd799a2"
+                },
+                "trigger": {
+                    "iso": "2023-12-13T18:00:00+00:00",
+                    "tzid": "UTC",
+                    "utc": "2023-12-13T18:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2023-12-16T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-16T09:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2023-12-16T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-16T09:00:00+00:00"
+                    },
+                    "sequence": 1,
+                    "start": {
+                        "iso": "2023-12-16T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-16T09:00:00+00:00"
+                    },
+                    "uid": "2e8666fe-a370-4c2c-acfb-b0352a1ebae2"
+                },
+                "trigger": {
+                    "iso": "2023-12-16T10:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-16T10:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2023-12-17T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-17T09:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2023-12-17T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-17T09:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2023-12-17T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-17T09:00:00+00:00"
+                    },
+                    "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+                },
+                "trigger": {
+                    "iso": "2023-12-17T08:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-17T08:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2023-12-18T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-18T09:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2023-12-18T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-18T09:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2023-12-18T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-18T09:00:00+00:00"
+                    },
+                    "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+                },
+                "trigger": {
+                    "iso": "2023-12-18T08:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-18T08:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2023-12-19T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-19T09:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2023-12-19T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-19T09:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2023-12-19T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-19T09:00:00+00:00"
+                    },
+                    "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+                },
+                "trigger": {
+                    "iso": "2023-12-19T08:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-19T08:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2023-12-20T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-20T09:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2023-12-20T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-20T09:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2023-12-20T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-20T09:00:00+00:00"
+                    },
+                    "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+                },
+                "trigger": {
+                    "iso": "2023-12-20T08:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-20T08:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2023-12-21T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-21T09:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2023-12-21T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-21T09:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2023-12-21T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-21T09:00:00+00:00"
+                    },
+                    "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+                },
+                "trigger": {
+                    "iso": "2023-12-21T08:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-21T08:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2023-12-22T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-22T09:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2023-12-22T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-22T09:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2023-12-22T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-22T09:00:00+00:00"
+                    },
+                    "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+                },
+                "trigger": {
+                    "iso": "2023-12-22T08:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-22T08:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2023-12-23T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-23T09:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2023-12-23T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-23T09:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2023-12-23T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2023-12-23T09:00:00+00:00"
+                    },
+                    "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+                },
+                "trigger": {
+                    "iso": "2023-12-23T08:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-23T08:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2024-12-18T10:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-18T10:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2024-12-18T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-18T09:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2024-12-18T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-18T09:00:00+00:00"
+                    },
+                    "uid": "ee30acc4-b8c8-4bc2-affb-ff1e971e4fd9"
+                },
+                "trigger": {
+                    "iso": "2024-12-18T08:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-18T08:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": true,
+                "parent": {
+                    "end": {
+                        "iso": "2024-12-19T13:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-19T13:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2024-12-19T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-19T09:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2024-12-19T12:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-19T12:00:00+00:00"
+                    },
+                    "uid": "ee30acc4-b8c8-4bc2-affb-ff1e971e4fd9"
+                },
+                "trigger": {
+                    "iso": "2024-12-19T11:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-19T11:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2024-12-20T10:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-20T10:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2024-12-20T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-20T09:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2024-12-20T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-20T09:00:00+00:00"
+                    },
+                    "uid": "ee30acc4-b8c8-4bc2-affb-ff1e971e4fd9"
+                },
+                "trigger": {
+                    "iso": "2024-12-20T08:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-20T08:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": true,
+                "parent": {
+                    "end": {
+                        "iso": "2024-12-22T10:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-22T10:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2024-12-22T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-22T09:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2024-12-22T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-22T09:00:00+00:00"
+                    },
+                    "uid": "ee30acc4-b8c8-4bc2-affb-ff1e971e4fd9"
+                },
+                "trigger": {
+                    "iso": "2024-12-22T08:30:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-22T08:30:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2024-12-23T10:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-23T10:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2024-12-23T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-23T09:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2024-12-23T09:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-23T09:00:00+00:00"
+                    },
+                    "uid": "ee30acc4-b8c8-4bc2-affb-ff1e971e4fd9"
+                },
+                "trigger": {
+                    "iso": "2024-12-23T08:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-23T08:00:00+00:00"
+                },
+                "uid": ""
+            }
+        ],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2024-12-18T10:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-18T10:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-12-18T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-18T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2024-12-18T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-18T09:00:00+00:00"
+                },
+                "uid": "ee30acc4-b8c8-4bc2-affb-ff1e971e4fd9"
+            },
+            {
+                "end": {
+                    "iso": "2024-12-19T13:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-19T13:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-12-19T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-19T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2024-12-19T12:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-19T12:00:00+00:00"
+                },
+                "uid": "ee30acc4-b8c8-4bc2-affb-ff1e971e4fd9"
+            },
+            {
+                "end": {
+                    "iso": "2024-12-20T10:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-20T10:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-12-20T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-20T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2024-12-20T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-20T09:00:00+00:00"
+                },
+                "uid": "ee30acc4-b8c8-4bc2-affb-ff1e971e4fd9"
+            },
+            {
+                "end": {
+                    "iso": "2024-12-21T10:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-21T10:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-12-21T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-21T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2024-12-21T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-21T09:00:00+00:00"
+                },
+                "uid": "ee30acc4-b8c8-4bc2-affb-ff1e971e4fd9"
+            },
+            {
+                "end": {
+                    "iso": "2024-12-22T10:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-22T10:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-12-22T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-22T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2024-12-22T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-22T09:00:00+00:00"
+                },
+                "uid": "ee30acc4-b8c8-4bc2-affb-ff1e971e4fd9"
+            },
+            {
+                "end": {
+                    "iso": "2024-12-23T10:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-23T10:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-12-23T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-23T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2024-12-23T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-23T09:00:00+00:00"
+                },
+                "uid": "ee30acc4-b8c8-4bc2-affb-ff1e971e4fd9"
+            }
+        ],
+        "journals": [],
+        "todos": [
+            {
+                "end": {
+                    "iso": "2023-11-16T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-11-16T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2023-11-16T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-11-16T09:00:00+00:00"
+                },
+                "sequence": 1,
+                "start": {
+                    "iso": "2023-11-16T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-11-16T09:00:00+00:00"
+                },
+                "uid": "8f9e0f14-a130-4270-88b1-045c5cd799a2"
+            },
+            {
+                "end": {
+                    "iso": "2023-12-16T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-16T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2023-12-16T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-16T09:00:00+00:00"
+                },
+                "sequence": 1,
+                "start": {
+                    "iso": "2023-12-16T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-16T09:00:00+00:00"
+                },
+                "uid": "2e8666fe-a370-4c2c-acfb-b0352a1ebae2"
+            },
+            {
+                "end": {
+                    "iso": "2023-12-17T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-17T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2023-12-17T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-17T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2023-12-17T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-17T09:00:00+00:00"
+                },
+                "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+            },
+            {
+                "end": {
+                    "iso": "2023-12-18T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-18T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2023-12-18T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-18T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2023-12-18T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-18T09:00:00+00:00"
+                },
+                "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+            },
+            {
+                "end": {
+                    "iso": "2023-12-19T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-19T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2023-12-19T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-19T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2023-12-19T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-19T09:00:00+00:00"
+                },
+                "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+            },
+            {
+                "end": {
+                    "iso": "2023-12-20T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-20T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2023-12-20T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-20T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2023-12-20T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-20T09:00:00+00:00"
+                },
+                "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+            },
+            {
+                "end": {
+                    "iso": "2023-12-21T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-21T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2023-12-21T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-21T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2023-12-21T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-21T09:00:00+00:00"
+                },
+                "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+            },
+            {
+                "end": {
+                    "iso": "2023-12-22T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-22T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2023-12-22T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-22T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2023-12-22T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-22T09:00:00+00:00"
+                },
+                "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+            },
+            {
+                "end": {
+                    "iso": "2023-12-23T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-23T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2023-12-23T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-23T09:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2023-12-23T09:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2023-12-23T09:00:00+00:00"
+                },
+                "uid": "efc08fc4-c843-4ce0-b02b-c4fd0a2b42b6"
+            }
+        ]
+    }
+}

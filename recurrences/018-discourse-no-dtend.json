@@ -1,0 +1,92 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/discourse_no_dtend.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2019-01-17T18:00:25+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-01-17T17:00:25+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2019-01-17T18:00:25+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-01-17T17:00:25+00:00"
+                },
+                "sequence": 0,
+                "start": {
+                    "iso": "2019-01-17T18:00:25+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-01-17T17:00:25+00:00"
+                },
+                "uid": "0ab03762-6e6d-40d7-9ceb-b49844ba61a4"
+            },
+            {
+                "end": {
+                    "iso": "2019-02-28T18:30:14+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-02-28T17:30:14+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2019-02-28T15:00:14+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-02-28T14:00:14+00:00"
+                },
+                "sequence": 0,
+                "start": {
+                    "iso": "2019-02-28T15:00:14+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-02-28T14:00:14+00:00"
+                },
+                "uid": "d7069eb4-e82c-40af-9486-fb5bb332c328"
+            },
+            {
+                "end": {
+                    "iso": "2019-03-01T21:00:35+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-03-01T20:00:35+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2019-03-01T18:00:35+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-03-01T17:00:35+00:00"
+                },
+                "sequence": 0,
+                "start": {
+                    "iso": "2019-03-01T18:00:35+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-03-01T17:00:35+00:00"
+                },
+                "uid": "51e14101-6ccb-446c-99d4-662fe4d6acad"
+            },
+            {
+                "end": {
+                    "iso": "2019-05-11T20:00:21+02:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-05-11T18:00:21+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2019-05-11T13:00:21+02:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-05-11T11:00:21+00:00"
+                },
+                "sequence": 0,
+                "start": {
+                    "iso": "2019-05-11T13:00:21+02:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-05-11T11:00:21+00:00"
+                },
+                "uid": "903a1e32-b506-4db9-9acd-f1304c0ba8eb"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}

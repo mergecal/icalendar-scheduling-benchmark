@@ -1,0 +1,510 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/issue_151_macos_linux_difference.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2014-08-01T20:00:00-07:00",
+                        "tzid": "America/Los_Angeles",
+                        "utc": "2014-08-02T03:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2014-08-01T19:00:00-07:00",
+                        "tzid": "America/Los_Angeles",
+                        "utc": "2014-08-02T02:00:00+00:00"
+                    },
+                    "sequence": 1,
+                    "start": {
+                        "iso": "2014-08-01T19:00:00-07:00",
+                        "tzid": "America/Los_Angeles",
+                        "utc": "2014-08-02T02:00:00+00:00"
+                    },
+                    "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+                },
+                "trigger": {
+                    "iso": "1976-04-01T00:55:45+00:00",
+                    "tzid": "UTC",
+                    "utc": "1976-04-01T00:55:45+00:00"
+                },
+                "uid": "0D3A9816-AC61-499A-A594-930AA281666B"
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2014-08-01T19:30:00-07:00",
+                        "tzid": "America/Los_Angeles",
+                        "utc": "2014-08-02T02:30:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2014-08-01T19:00:00-07:00",
+                        "tzid": "America/Los_Angeles",
+                        "utc": "2014-08-02T02:00:00+00:00"
+                    },
+                    "sequence": 3,
+                    "start": {
+                        "iso": "2014-08-01T18:30:00-07:00",
+                        "tzid": "America/Los_Angeles",
+                        "utc": "2014-08-02T01:30:00+00:00"
+                    },
+                    "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+                },
+                "trigger": {
+                    "iso": "1976-04-01T00:55:45+00:00",
+                    "tzid": "UTC",
+                    "utc": "1976-04-01T00:55:45+00:00"
+                },
+                "uid": "8744D632-C9F8-483C-B095-590E0A3D2E39"
+            }
+        ],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2014-08-01T19:30:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2014-08-02T02:30:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2014-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2014-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2014-08-01T18:30:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2014-08-02T01:30:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2015-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2015-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2015-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2015-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2015-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2015-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2017-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2017-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2017-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2017-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2017-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2017-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2018-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2018-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2018-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2018-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2018-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2018-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2019-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2019-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2019-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2019-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2019-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2019-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2020-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2020-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2020-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2020-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2020-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2020-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2021-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2021-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2021-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2021-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2021-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2021-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2022-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2022-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2022-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2022-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2022-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2022-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2023-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2023-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2023-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2023-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2023-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2023-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2024-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2024-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2024-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2024-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2024-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2025-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2025-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2025-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2025-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2025-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2025-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2026-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2026-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2026-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2026-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2026-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2026-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2027-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2027-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2027-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2027-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2027-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2027-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2028-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2028-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2028-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2028-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2028-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2028-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2029-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2029-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2029-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2029-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2029-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2029-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2030-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2030-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2030-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2030-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2030-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2030-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2031-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2031-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2031-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2031-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2031-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2031-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2032-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2032-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2032-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2032-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2032-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2032-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2033-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2033-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2033-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2033-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2033-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2033-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2034-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2034-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2034-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2034-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2034-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2034-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2035-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2035-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2035-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2035-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2035-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2035-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2036-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2036-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2036-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2036-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2036-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2036-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            },
+            {
+                "end": {
+                    "iso": "2037-08-01T20:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2037-08-02T03:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2037-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2037-08-02T02:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2037-08-01T19:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2037-08-02T02:00:00+00:00"
+                },
+                "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/alarm_at_start_of_event.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [
+            {
+                "acknowledged": true,
+                "parent": {
+                    "end": {
+                        "iso": "2024-10-04T04:00:00-07:00",
+                        "tzid": "America/Los_Angeles",
+                        "utc": "2024-10-04T11:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2024-10-04T03:00:00-07:00",
+                        "tzid": "America/Los_Angeles",
+                        "utc": "2024-10-04T10:00:00+00:00"
+                    },
+                    "sequence": 1,
+                    "start": {
+                        "iso": "2024-10-04T03:00:00-07:00",
+                        "tzid": "America/Los_Angeles",
+                        "utc": "2024-10-04T10:00:00+00:00"
+                    },
+                    "uid": "a6b8cf4d-b7fa-4939-a039-003db08bf7a7"
+                },
+                "trigger": {
+                    "iso": "2024-10-04T03:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2024-10-04T10:00:00+00:00"
+                },
+                "uid": ""
+            }
+        ],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2024-10-04T04:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2024-10-04T11:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-10-04T03:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2024-10-04T10:00:00+00:00"
+                },
+                "sequence": 1,
+                "start": {
+                    "iso": "2024-10-04T03:00:00-07:00",
+                    "tzid": "America/Los_Angeles",
+                    "utc": "2024-10-04T10:00:00+00:00"
+                },
+                "uid": "a6b8cf4d-b7fa-4939-a039-003db08bf7a7"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}

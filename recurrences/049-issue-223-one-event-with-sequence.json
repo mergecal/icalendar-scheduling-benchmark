@@ -1,0 +1,54 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/issue_223_one_event_with_sequence.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2019-03-04T08:30:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-03-04T07:30:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2019-03-04T08:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-03-04T07:00:00+00:00"
+                },
+                "sequence": 0,
+                "start": {
+                    "iso": "2019-03-04T08:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-03-04T07:00:00+00:00"
+                },
+                "uid": "UYDQSG9TH4DE0WM3QFL2J"
+            },
+            {
+                "end": {
+                    "iso": "2019-03-05T08:30:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-03-05T07:30:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2019-03-05T08:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-03-05T07:00:00+00:00"
+                },
+                "sequence": 1,
+                "start": {
+                    "iso": "2019-03-05T08:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-03-05T07:00:00+00:00"
+                },
+                "uid": "UYDQSG9TH4DE0WM3QFL2J2"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}

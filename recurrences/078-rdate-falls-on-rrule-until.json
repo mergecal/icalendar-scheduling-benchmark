@@ -1,0 +1,168 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/rdate_falls_on_rrule_until.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2019-10-29T17:45:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-10-29T16:45:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2019-10-29T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-10-29T15:15:00+00:00"
+                },
+                "sequence": 11,
+                "start": {
+                    "iso": "2019-10-29T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-10-29T15:15:00+00:00"
+                },
+                "uid": "f0f31ddb-6918-46af-a5a1-0a7254fbce71"
+            },
+            {
+                "end": {
+                    "iso": "2019-11-12T17:45:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-11-12T16:45:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2019-11-12T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-11-12T15:15:00+00:00"
+                },
+                "sequence": 11,
+                "start": {
+                    "iso": "2019-11-12T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-11-12T15:15:00+00:00"
+                },
+                "uid": "f0f31ddb-6918-46af-a5a1-0a7254fbce71"
+            },
+            {
+                "end": {
+                    "iso": "2019-12-10T17:45:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-12-10T16:45:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2019-12-10T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-12-10T15:15:00+00:00"
+                },
+                "sequence": 11,
+                "start": {
+                    "iso": "2019-12-10T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2019-12-10T15:15:00+00:00"
+                },
+                "uid": "f0f31ddb-6918-46af-a5a1-0a7254fbce71"
+            },
+            {
+                "end": {
+                    "iso": "2020-01-07T17:45:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-07T16:45:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2020-01-07T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-07T15:15:00+00:00"
+                },
+                "sequence": 11,
+                "start": {
+                    "iso": "2020-01-07T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-07T15:15:00+00:00"
+                },
+                "uid": "f0f31ddb-6918-46af-a5a1-0a7254fbce71"
+            },
+            {
+                "end": {
+                    "iso": "2020-01-14T17:45:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-14T16:45:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2020-01-14T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-14T15:15:00+00:00"
+                },
+                "sequence": 11,
+                "start": {
+                    "iso": "2020-01-14T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-14T15:15:00+00:00"
+                },
+                "uid": "f0f31ddb-6918-46af-a5a1-0a7254fbce71"
+            },
+            {
+                "end": {
+                    "iso": "2020-01-21T17:45:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-21T16:45:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2020-01-21T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-21T15:15:00+00:00"
+                },
+                "sequence": 11,
+                "start": {
+                    "iso": "2020-01-21T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-21T15:15:00+00:00"
+                },
+                "uid": "f0f31ddb-6918-46af-a5a1-0a7254fbce71"
+            },
+            {
+                "end": {
+                    "iso": "2020-01-28T17:45:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-28T16:45:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2020-01-28T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-28T15:15:00+00:00"
+                },
+                "sequence": 11,
+                "start": {
+                    "iso": "2020-01-28T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-28T15:15:00+00:00"
+                },
+                "uid": "f0f31ddb-6918-46af-a5a1-0a7254fbce71"
+            },
+            {
+                "end": {
+                    "iso": "2020-02-04T17:45:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-02-04T16:45:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2020-02-04T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-02-04T15:15:00+00:00"
+                },
+                "sequence": 11,
+                "start": {
+                    "iso": "2020-02-04T16:15:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-02-04T15:15:00+00:00"
+                },
+                "uid": "f0f31ddb-6918-46af-a5a1-0a7254fbce71"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}

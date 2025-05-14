@@ -1,0 +1,111 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/issue_223_thunderbird.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2025-04-23T10:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-23T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2025-04-23T09:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-23T08:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2025-04-23T09:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-23T08:00:00+00:00"
+                },
+                "uid": "b143dcdc-2154-49a8-abea-5c64310ebabd"
+            },
+            {
+                "end": {
+                    "iso": "2025-04-24T12:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-24T11:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2025-04-24T09:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-24T08:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2025-04-24T11:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-24T10:00:00+00:00"
+                },
+                "uid": "b143dcdc-2154-49a8-abea-5c64310ebabd"
+            },
+            {
+                "end": {
+                    "iso": "2025-04-25T10:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-25T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2025-04-25T09:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-25T08:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2025-04-25T09:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-25T08:00:00+00:00"
+                },
+                "uid": "b143dcdc-2154-49a8-abea-5c64310ebabd"
+            },
+            {
+                "end": {
+                    "iso": "2025-04-26T10:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-26T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2025-04-26T09:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-26T08:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2025-04-26T09:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-26T08:00:00+00:00"
+                },
+                "uid": "b143dcdc-2154-49a8-abea-5c64310ebabd"
+            },
+            {
+                "end": {
+                    "iso": "2025-04-27T10:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-27T09:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2025-04-27T09:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-27T08:00:00+00:00"
+                },
+                "sequence": 3,
+                "start": {
+                    "iso": "2025-04-27T09:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2025-04-27T08:00:00+00:00"
+                },
+                "uid": "b143dcdc-2154-49a8-abea-5c64310ebabd"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}

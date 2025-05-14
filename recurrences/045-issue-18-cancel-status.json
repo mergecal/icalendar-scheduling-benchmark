@@ -1,0 +1,73 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/issue_18_cancel_status.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2020-01-28T23:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-28T22:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2020-01-28T22:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-28T21:00:00+00:00"
+                },
+                "sequence": 2,
+                "start": {
+                    "iso": "2020-01-28T22:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-28T21:00:00+00:00"
+                },
+                "uid": "b65c2b5b-b785-4edc-9560-e0379036d1f2"
+            },
+            {
+                "end": {
+                    "iso": "2020-01-29T23:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-29T22:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2020-01-29T22:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-29T21:00:00+00:00"
+                },
+                "sequence": 2,
+                "start": {
+                    "iso": "2020-01-29T22:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-29T21:00:00+00:00"
+                },
+                "uid": "b65c2b5b-b785-4edc-9560-e0379036d1f2"
+            },
+            {
+                "end": {
+                    "iso": "2020-01-30T23:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-30T22:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2020-01-30T22:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-30T21:00:00+00:00"
+                },
+                "sequence": 2,
+                "start": {
+                    "iso": "2020-01-30T22:00:00+01:00",
+                    "tzid": "Europe/Berlin",
+                    "utc": "2020-01-30T21:00:00+00:00"
+                },
+                "uid": "b65c2b5b-b785-4edc-9560-e0379036d1f2"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}

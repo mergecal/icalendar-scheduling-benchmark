@@ -1,0 +1,35 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/issue_86_x_wr_timezone_without_time_zone_in_dt.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2021-09-16T22:45:00+02:00",
+                    "tzid": "Europe/Brussels",
+                    "utc": "2021-09-16T20:45:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2021-09-16T21:00:00+02:00",
+                    "tzid": "Europe/Brussels",
+                    "utc": "2021-09-16T19:00:00+00:00"
+                },
+                "sequence": 0,
+                "start": {
+                    "iso": "2021-09-16T21:00:00+02:00",
+                    "tzid": "Europe/Brussels",
+                    "utc": "2021-09-16T19:00:00+00:00"
+                },
+                "uid": "match_1025179"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}

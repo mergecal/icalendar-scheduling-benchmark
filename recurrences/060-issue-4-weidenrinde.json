@@ -1,0 +1,54 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/issue_4_weidenrinde.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2019-08-24",
+                    "tzid": null,
+                    "utc": "2019-08-23T23:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2019-08-23",
+                    "tzid": null,
+                    "utc": "2019-08-22T23:00:00+00:00"
+                },
+                "sequence": 0,
+                "start": {
+                    "iso": "2019-08-23",
+                    "tzid": null,
+                    "utc": "2019-08-22T23:00:00+00:00"
+                },
+                "uid": "2334a952-f89f-4308-9639-fc22dc70519f"
+            },
+            {
+                "end": {
+                    "iso": "2019-08-31",
+                    "tzid": null,
+                    "utc": "2019-08-30T23:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2019-08-30",
+                    "tzid": null,
+                    "utc": "2019-08-29T23:00:00+00:00"
+                },
+                "sequence": 0,
+                "start": {
+                    "iso": "2019-08-30",
+                    "tzid": null,
+                    "utc": "2019-08-29T23:00:00+00:00"
+                },
+                "uid": "2334a952-f89f-4308-9639-fc22dc70519f"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}

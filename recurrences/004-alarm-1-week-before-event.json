@@ -1,0 +1,92 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/alarm_1_week_before_event.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2024-12-09T12:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-09T12:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2024-12-09T11:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-09T11:00:00+00:00"
+                    },
+                    "sequence": 0,
+                    "start": {
+                        "iso": "2024-12-09T11:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-09T11:00:00+00:00"
+                    },
+                    "uid": "a26289e0-8739-488b-b706-77c9364193c1"
+                },
+                "trigger": {
+                    "iso": "2024-12-02T11:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-02T11:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": false,
+                "parent": {
+                    "end": {
+                        "iso": "2024-12-09T12:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-09T12:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2024-12-09T11:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-09T11:00:00+00:00"
+                    },
+                    "sequence": 0,
+                    "start": {
+                        "iso": "2024-12-09T11:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-09T11:00:00+00:00"
+                    },
+                    "uid": "a26289e0-8739-488b-b706-77c9364193c1"
+                },
+                "trigger": {
+                    "iso": "2024-12-07T11:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-07T11:00:00+00:00"
+                },
+                "uid": ""
+            }
+        ],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2024-12-09T12:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-09T12:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-12-09T11:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-09T11:00:00+00:00"
+                },
+                "sequence": 0,
+                "start": {
+                    "iso": "2024-12-09T11:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-09T11:00:00+00:00"
+                },
+                "uid": "a26289e0-8739-488b-b706-77c9364193c1"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}

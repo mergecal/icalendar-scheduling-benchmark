@@ -1,0 +1,64 @@
+{
+    "description:": "",
+    "query": {
+        "calendar": "recurring-ical-events/alarm_absolute.ics",
+        "end": "2038-01-01T00:00:00+00:00",
+        "start": "1970-01-01T00:00:00+00:00"
+    },
+    "result": {
+        "alarms": [
+            {
+                "acknowledged": true,
+                "parent": {
+                    "end": {
+                        "iso": "2024-10-04T12:00:00+01:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-10-04T11:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2024-10-04T11:00:00+01:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-10-04T10:00:00+00:00"
+                    },
+                    "sequence": 0,
+                    "start": {
+                        "iso": "2024-10-04T11:00:00+01:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-10-04T10:00:00+00:00"
+                    },
+                    "uid": "cd047c29-d904-47eb-bdba-ab7abafee025"
+                },
+                "trigger": {
+                    "iso": "2024-10-03T13:00:00+00:00",
+                    "tzid": "UTC",
+                    "utc": "2024-10-03T13:00:00+00:00"
+                },
+                "uid": ""
+            }
+        ],
+        "calendar": "",
+        "events": [
+            {
+                "end": {
+                    "iso": "2024-10-04T12:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-10-04T11:00:00+00:00"
+                },
+                "recurrence-id": {
+                    "iso": "2024-10-04T11:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-10-04T10:00:00+00:00"
+                },
+                "sequence": 0,
+                "start": {
+                    "iso": "2024-10-04T11:00:00+01:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-10-04T10:00:00+00:00"
+                },
+                "uid": "cd047c29-d904-47eb-bdba-ab7abafee025"
+            }
+        ],
+        "journals": [],
+        "todos": []
+    }
+}
