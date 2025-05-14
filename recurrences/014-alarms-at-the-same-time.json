@@ -10,34 +10,8 @@
             {
                 "acknowledged": true,
                 "parent": {
-                    "end": {
-                        "iso": "2024-12-21T13:00:00+00:00",
-                        "tzid": "Europe/London",
-                        "utc": "2024-12-21T13:00:00+00:00"
-                    },
-                    "recurrence-id": {
-                        "iso": "2024-12-21T13:00:00+00:00",
-                        "tzid": "Europe/London",
-                        "utc": "2024-12-21T13:00:00+00:00"
-                    },
-                    "sequence": 4,
-                    "start": {
-                        "iso": "2024-12-21T12:00:00+00:00",
-                        "tzid": "Europe/London",
-                        "utc": "2024-12-21T12:00:00+00:00"
-                    },
-                    "uid": "090ed38a-b759-4acd-b45e-6977c60e1271"
-                },
-                "trigger": {
-                    "iso": "2024-12-20T12:00:00+00:00",
-                    "tzid": "Europe/London",
-                    "utc": "2024-12-20T12:00:00+00:00"
-                },
-                "uid": ""
-            },
-            {
-                "acknowledged": true,
-                "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "event with alarm at the same time 3",
                     "end": {
                         "iso": "2024-12-22T14:00:00+00:00",
                         "tzid": "Europe/London",
@@ -66,6 +40,38 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "event with alarm at the same time 2",
+                    "end": {
+                        "iso": "2024-12-21T13:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-21T13:00:00+00:00"
+                    },
+                    "recurrence-id": {
+                        "iso": "2024-12-21T13:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-21T13:00:00+00:00"
+                    },
+                    "sequence": 4,
+                    "start": {
+                        "iso": "2024-12-21T12:00:00+00:00",
+                        "tzid": "Europe/London",
+                        "utc": "2024-12-21T12:00:00+00:00"
+                    },
+                    "uid": "090ed38a-b759-4acd-b45e-6977c60e1271"
+                },
+                "trigger": {
+                    "iso": "2024-12-20T12:00:00+00:00",
+                    "tzid": "Europe/London",
+                    "utc": "2024-12-20T12:00:00+00:00"
+                },
+                "uid": ""
+            },
+            {
+                "acknowledged": true,
+                "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "event with alarm at the same time 1",
                     "end": {
                         "iso": "2024-12-20T14:00:00+00:00",
                         "tzid": "Europe/London",
@@ -94,6 +100,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "event with alarm at the same time 3",
                     "end": {
                         "iso": "2024-12-22T14:00:00+00:00",
                         "tzid": "Europe/London",
@@ -123,6 +131,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event with alarm at the same time 1",
                 "end": {
                     "iso": "2024-12-20T14:00:00+00:00",
                     "tzid": "Europe/London",
@@ -142,6 +152,8 @@
                 "uid": "090ed38a-b759-4acd-b45e-6977c60e1271"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event with alarm at the same time 2",
                 "end": {
                     "iso": "2024-12-21T13:00:00+00:00",
                     "tzid": "Europe/London",
@@ -161,6 +173,8 @@
                 "uid": "090ed38a-b759-4acd-b45e-6977c60e1271"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event with alarm at the same time 3",
                 "end": {
                     "iso": "2024-12-22T14:00:00+00:00",
                     "tzid": "Europe/London",

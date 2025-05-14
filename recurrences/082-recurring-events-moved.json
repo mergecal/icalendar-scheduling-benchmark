@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "New Event",
                 "end": {
                     "iso": "2019-03-07T03:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -29,6 +31,8 @@
                 "uid": "a0c78729-30b1-4ba3-a86e-6aedd995d788"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "New Event",
                 "end": {
                     "iso": "2019-03-08T02:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -48,6 +52,8 @@
                 "uid": "a0c78729-30b1-4ba3-a86e-6aedd995d788"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "New Event",
                 "end": {
                     "iso": "2019-03-09T04:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -67,6 +73,8 @@
                 "uid": "a0c78729-30b1-4ba3-a86e-6aedd995d788"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "New Event",
                 "end": {
                     "iso": "2019-03-10T03:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -86,6 +94,8 @@
                 "uid": "a0c78729-30b1-4ba3-a86e-6aedd995d788"
             },
             {
+                "DESCRIPTION": "description should be the same",
+                "SUMMARY": "test7",
                 "end": {
                     "iso": "2019-03-18T05:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -105,6 +115,8 @@
                 "uid": "5d4c6843-9300-4f91-8d88-6094d4b0b840"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test7 - edited",
                 "end": {
                     "iso": "2019-03-19T05:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -124,6 +136,8 @@
                 "uid": "5d4c6843-9300-4f91-8d88-6094d4b0b840"
             },
             {
+                "DESCRIPTION": "description should be the same",
+                "SUMMARY": "test7",
                 "end": {
                     "iso": "2019-03-20T05:00:00+01:00",
                     "tzid": "Europe/Berlin",

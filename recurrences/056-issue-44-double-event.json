@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test2",
                 "end": {
                     "iso": "2020-08-15",
                     "tzid": null,

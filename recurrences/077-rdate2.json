@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -29,6 +31,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -48,6 +52,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -67,6 +73,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -86,6 +94,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -105,6 +115,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -124,6 +136,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -143,6 +157,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -162,6 +178,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -181,6 +199,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -200,6 +220,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -219,6 +241,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -238,6 +262,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -257,6 +283,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -276,6 +304,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -295,6 +325,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -314,6 +346,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -333,6 +367,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -352,6 +388,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -371,6 +409,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -390,6 +430,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -409,6 +451,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -428,6 +472,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -447,6 +493,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -466,6 +514,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -485,6 +535,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -504,6 +556,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -523,6 +577,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -542,6 +598,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-08-31T21:00:00+00:00",
                     "tzid": "UTC",
@@ -561,6 +619,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -580,6 +640,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -599,6 +661,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -618,6 +682,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -637,6 +703,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -656,6 +724,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -675,6 +745,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -694,6 +766,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -713,6 +787,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -732,6 +808,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -751,6 +829,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -770,6 +850,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -789,6 +871,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -808,6 +892,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -827,6 +913,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -846,6 +934,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -865,6 +955,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -884,6 +976,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -903,6 +997,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -922,6 +1018,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -941,6 +1039,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -960,6 +1060,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -979,6 +1081,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -998,6 +1102,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1017,6 +1123,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1036,6 +1144,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1055,6 +1165,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1074,6 +1186,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1093,6 +1207,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1112,6 +1228,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-09-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1131,6 +1249,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1150,6 +1270,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1169,6 +1291,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1188,6 +1312,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1207,6 +1333,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1226,6 +1354,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1245,6 +1375,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1264,6 +1396,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1283,6 +1417,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1302,6 +1438,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1321,6 +1459,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1340,6 +1480,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1359,6 +1501,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1378,6 +1522,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1397,6 +1543,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1416,6 +1564,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1435,6 +1585,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1454,6 +1606,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1473,6 +1627,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1492,6 +1648,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1511,6 +1669,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1530,6 +1690,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1549,6 +1711,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1568,6 +1732,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1587,6 +1753,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1606,6 +1774,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1625,6 +1795,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1644,6 +1816,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1663,6 +1837,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1682,6 +1858,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1701,6 +1879,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-10-31T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1720,6 +1900,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1739,6 +1921,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1758,6 +1942,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1777,6 +1963,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1796,6 +1984,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1815,6 +2005,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1834,6 +2026,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1853,6 +2047,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1872,6 +2068,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1891,6 +2089,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1910,6 +2110,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1929,6 +2131,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1948,6 +2152,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1967,6 +2173,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -1986,6 +2194,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2005,6 +2215,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2024,6 +2236,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2043,6 +2257,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2062,6 +2278,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2081,6 +2299,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2100,6 +2320,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2119,6 +2341,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2138,6 +2362,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2157,6 +2383,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2176,6 +2404,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2195,6 +2425,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2214,6 +2446,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2233,6 +2467,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2252,6 +2488,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2271,6 +2509,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-11-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2290,6 +2530,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2309,6 +2551,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2328,6 +2572,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2347,6 +2593,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2366,6 +2614,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2385,6 +2635,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2404,6 +2656,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2423,6 +2677,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2442,6 +2698,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2461,6 +2719,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2480,6 +2740,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2499,6 +2761,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2518,6 +2782,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2537,6 +2803,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2556,6 +2824,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2575,6 +2845,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2594,6 +2866,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2613,6 +2887,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2632,6 +2908,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2651,6 +2929,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2670,6 +2950,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2689,6 +2971,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2708,6 +2992,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2727,6 +3013,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2746,6 +3034,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2765,6 +3055,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2784,6 +3076,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2803,6 +3097,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2822,6 +3118,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2841,6 +3139,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2860,6 +3160,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2014-12-31T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2879,6 +3181,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2898,6 +3202,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2917,6 +3223,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2936,6 +3244,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2955,6 +3265,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2974,6 +3286,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -2993,6 +3307,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3012,6 +3328,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3031,6 +3349,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3050,6 +3370,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3069,6 +3391,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3088,6 +3412,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3107,6 +3433,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3126,6 +3454,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3145,6 +3475,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3164,6 +3496,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3183,6 +3517,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3202,6 +3538,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3221,6 +3559,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3240,6 +3580,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3259,6 +3601,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3278,6 +3622,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3297,6 +3643,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3316,6 +3664,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3335,6 +3685,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3354,6 +3706,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3373,6 +3727,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3392,6 +3748,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3411,6 +3769,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3430,6 +3790,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3449,6 +3811,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-01-31T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3468,6 +3832,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3487,6 +3853,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3506,6 +3874,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3525,6 +3895,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3544,6 +3916,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3563,6 +3937,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3582,6 +3958,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3601,6 +3979,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3620,6 +4000,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3639,6 +4021,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3658,6 +4042,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3677,6 +4063,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3696,6 +4084,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3715,6 +4105,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3734,6 +4126,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3753,6 +4147,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3772,6 +4168,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3791,6 +4189,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3810,6 +4210,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3829,6 +4231,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3848,6 +4252,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3867,6 +4273,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3886,6 +4294,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3905,6 +4315,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3924,6 +4336,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3943,6 +4357,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3962,6 +4378,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -3981,6 +4399,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-02-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4000,6 +4420,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4019,6 +4441,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4038,6 +4462,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4057,6 +4483,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4076,6 +4504,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4095,6 +4525,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4114,6 +4546,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4133,6 +4567,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4152,6 +4588,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4171,6 +4609,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4190,6 +4630,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4209,6 +4651,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4228,6 +4672,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4247,6 +4693,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4266,6 +4714,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4285,6 +4735,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4304,6 +4756,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4323,6 +4777,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4342,6 +4798,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4361,6 +4819,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4380,6 +4840,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4399,6 +4861,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4418,6 +4882,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4437,6 +4903,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4456,6 +4924,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4475,6 +4945,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4494,6 +4966,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4513,6 +4987,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4532,6 +5008,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4551,6 +5029,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4570,6 +5050,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-03-31T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4589,6 +5071,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4608,6 +5092,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4627,6 +5113,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4646,6 +5134,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4665,6 +5155,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4684,6 +5176,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4703,6 +5197,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4722,6 +5218,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4741,6 +5239,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4760,6 +5260,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4779,6 +5281,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4798,6 +5302,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4817,6 +5323,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4836,6 +5344,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4855,6 +5365,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4874,6 +5386,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4893,6 +5407,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4912,6 +5428,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4931,6 +5449,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4950,6 +5470,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4969,6 +5491,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -4988,6 +5512,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5007,6 +5533,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5026,6 +5554,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5045,6 +5575,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5064,6 +5596,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5083,6 +5617,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5102,6 +5638,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5121,6 +5659,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5140,6 +5680,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-04-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5159,6 +5701,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5178,6 +5722,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5197,6 +5743,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5216,6 +5764,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5235,6 +5785,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5254,6 +5806,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5273,6 +5827,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5292,6 +5848,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5311,6 +5869,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5330,6 +5890,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5349,6 +5911,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5368,6 +5932,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5387,6 +5953,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5406,6 +5974,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5425,6 +5995,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5444,6 +6016,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5463,6 +6037,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5482,6 +6058,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5501,6 +6079,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5520,6 +6100,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5539,6 +6121,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5558,6 +6142,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5577,6 +6163,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5596,6 +6184,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5615,6 +6205,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5634,6 +6226,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5653,6 +6247,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5672,6 +6268,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5691,6 +6289,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5710,6 +6310,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5729,6 +6331,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-05-31T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5748,6 +6352,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5767,6 +6373,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5786,6 +6394,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5805,6 +6415,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5824,6 +6436,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5843,6 +6457,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5862,6 +6478,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5881,6 +6499,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5900,6 +6520,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5919,6 +6541,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5938,6 +6562,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5957,6 +6583,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5976,6 +6604,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -5995,6 +6625,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6014,6 +6646,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6033,6 +6667,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6052,6 +6688,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6071,6 +6709,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6090,6 +6730,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6109,6 +6751,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6128,6 +6772,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6147,6 +6793,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6166,6 +6814,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6185,6 +6835,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6204,6 +6856,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6223,6 +6877,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6242,6 +6898,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6261,6 +6919,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6280,6 +6940,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6299,6 +6961,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-06-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6318,6 +6982,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6337,6 +7003,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6356,6 +7024,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6375,6 +7045,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6394,6 +7066,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6413,6 +7087,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6432,6 +7108,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6451,6 +7129,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6470,6 +7150,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6489,6 +7171,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6508,6 +7192,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6527,6 +7213,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6546,6 +7234,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6565,6 +7255,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6584,6 +7276,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6603,6 +7297,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6622,6 +7318,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6641,6 +7339,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6660,6 +7360,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6679,6 +7381,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6698,6 +7402,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6717,6 +7423,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6736,6 +7444,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6755,6 +7465,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6774,6 +7486,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6793,6 +7507,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6812,6 +7528,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6831,6 +7549,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6850,6 +7570,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6869,6 +7591,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-07-31T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6888,6 +7612,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6907,6 +7633,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6926,6 +7654,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6945,6 +7675,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6964,6 +7696,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -6983,6 +7717,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7002,6 +7738,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7021,6 +7759,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7040,6 +7780,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7059,6 +7801,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7078,6 +7822,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7097,6 +7843,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7116,6 +7864,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7135,6 +7885,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7154,6 +7906,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7173,6 +7927,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7192,6 +7948,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7211,6 +7969,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7230,6 +7990,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7249,6 +8011,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7268,6 +8032,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7287,6 +8053,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7306,6 +8074,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7325,6 +8095,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7344,6 +8116,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7363,6 +8137,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7382,6 +8158,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7401,6 +8179,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7420,6 +8200,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7439,6 +8221,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7458,6 +8242,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-08-31T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7477,6 +8263,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7496,6 +8284,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7515,6 +8305,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7534,6 +8326,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7553,6 +8347,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7572,6 +8368,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7591,6 +8389,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7610,6 +8410,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7629,6 +8431,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7648,6 +8452,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7667,6 +8473,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7686,6 +8494,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7705,6 +8515,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7724,6 +8536,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7743,6 +8557,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7762,6 +8578,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7781,6 +8599,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7800,6 +8620,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7819,6 +8641,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7838,6 +8662,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7857,6 +8683,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7876,6 +8704,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7895,6 +8725,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7914,6 +8746,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7933,6 +8767,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7952,6 +8788,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7971,6 +8809,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -7990,6 +8830,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8009,6 +8851,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8028,6 +8872,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-09-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8047,6 +8893,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8066,6 +8914,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8085,6 +8935,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8104,6 +8956,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8123,6 +8977,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8142,6 +8998,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8161,6 +9019,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8180,6 +9040,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8199,6 +9061,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8218,6 +9082,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8237,6 +9103,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8256,6 +9124,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8275,6 +9145,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8294,6 +9166,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8313,6 +9187,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8332,6 +9208,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8351,6 +9229,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8370,6 +9250,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8389,6 +9271,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8408,6 +9292,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8427,6 +9313,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8446,6 +9334,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8465,6 +9355,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8484,6 +9376,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8503,6 +9397,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8522,6 +9418,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8541,6 +9439,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8560,6 +9460,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8579,6 +9481,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8598,6 +9502,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8617,6 +9523,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-10-31T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8636,6 +9544,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8655,6 +9565,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8674,6 +9586,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8693,6 +9607,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8712,6 +9628,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8731,6 +9649,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8750,6 +9670,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8769,6 +9691,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8788,6 +9712,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8807,6 +9733,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8826,6 +9754,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8845,6 +9775,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8864,6 +9796,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8883,6 +9817,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8902,6 +9838,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8921,6 +9859,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8940,6 +9880,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8959,6 +9901,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8978,6 +9922,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -8997,6 +9943,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9016,6 +9964,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9035,6 +9985,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9054,6 +10006,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9073,6 +10027,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9092,6 +10048,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9111,6 +10069,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9130,6 +10090,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9149,6 +10111,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9168,6 +10132,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9187,6 +10153,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-11-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9206,6 +10174,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9225,6 +10195,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9244,6 +10216,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9263,6 +10237,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9282,6 +10258,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9301,6 +10279,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9320,6 +10300,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9339,6 +10321,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9358,6 +10342,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9377,6 +10363,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9396,6 +10384,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9415,6 +10405,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9434,6 +10426,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9453,6 +10447,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9472,6 +10468,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9491,6 +10489,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9510,6 +10510,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9529,6 +10531,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9548,6 +10552,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9567,6 +10573,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9586,6 +10594,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9605,6 +10615,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9624,6 +10636,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9643,6 +10657,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9662,6 +10678,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9681,6 +10699,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9700,6 +10720,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9719,6 +10741,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9738,6 +10762,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9757,6 +10783,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9776,6 +10804,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2015-12-31T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9795,6 +10825,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9814,6 +10846,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9833,6 +10867,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9852,6 +10888,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9871,6 +10909,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9890,6 +10930,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9909,6 +10951,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9928,6 +10972,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9947,6 +10993,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9966,6 +11014,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -9985,6 +11035,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10004,6 +11056,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10023,6 +11077,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10042,6 +11098,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10061,6 +11119,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10080,6 +11140,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10099,6 +11161,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10118,6 +11182,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10137,6 +11203,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10156,6 +11224,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10175,6 +11245,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10194,6 +11266,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10213,6 +11287,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10232,6 +11308,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10251,6 +11329,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10270,6 +11350,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10289,6 +11371,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10308,6 +11392,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10327,6 +11413,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10346,6 +11434,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-30T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10365,6 +11455,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-01-31T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10384,6 +11476,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10403,6 +11497,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10422,6 +11518,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10441,6 +11539,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10460,6 +11560,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10479,6 +11581,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10498,6 +11602,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10517,6 +11623,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10536,6 +11644,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10555,6 +11665,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10574,6 +11686,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10593,6 +11707,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10612,6 +11728,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10631,6 +11749,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10650,6 +11770,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10669,6 +11791,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10688,6 +11812,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10707,6 +11833,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10726,6 +11854,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-19T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10745,6 +11875,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-20T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10764,6 +11896,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-21T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10783,6 +11917,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-22T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10802,6 +11938,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-23T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10821,6 +11959,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-24T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10840,6 +11980,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-25T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10859,6 +12001,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-26T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10878,6 +12022,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-27T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10897,6 +12043,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-28T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10916,6 +12064,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-02-29T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10935,6 +12085,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-01T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10954,6 +12106,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-02T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10973,6 +12127,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -10992,6 +12148,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-04T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11011,6 +12169,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-05T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11030,6 +12190,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-06T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11049,6 +12211,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-07T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11068,6 +12232,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-08T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11087,6 +12253,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-09T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11106,6 +12274,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-10T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11125,6 +12295,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-11T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11144,6 +12316,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-12T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11163,6 +12337,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-13T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11182,6 +12358,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-14T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11201,6 +12379,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-15T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11220,6 +12400,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-16T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11239,6 +12421,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-17T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11258,6 +12442,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-18T21:00:00+00:00",
                     "tzid": "UTC",
@@ -11277,6 +12463,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "rdate and rrule overlap but exdate removes the date again",
                 "end": {
                     "iso": "2016-03-19T21:00:00+00:00",
                     "tzid": "UTC",

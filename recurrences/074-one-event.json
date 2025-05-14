@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test1",
                 "end": {
                     "iso": "2019-03-04T08:30:00+01:00",
                     "tzid": "Europe/Berlin",

@@ -10,6 +10,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "event",
                     "end": {
                         "iso": "2024-10-04T12:00:00+01:00",
                         "tzid": "Europe/London",
@@ -39,6 +41,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2024-10-04T12:00:00+01:00",
                     "tzid": "Europe/London",

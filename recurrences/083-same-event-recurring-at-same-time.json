@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2024-09-24T13:00:00+01:00",
                     "tzid": "Europe/London",
@@ -29,6 +31,8 @@
                 "uid": "758bdcf4-da36-4fe1-a90c-2327612e7174"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2024-09-24T13:00:00+01:00",
                     "tzid": "Europe/London",
@@ -48,6 +52,8 @@
                 "uid": "758bdcf4-da36-4fe1-a90c-2327612e7174"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2024-09-24T13:00:00+01:00",
                     "tzid": "Europe/London",
@@ -67,6 +73,8 @@
                 "uid": "758bdcf4-da36-4fe1-a90c-2327612e7174"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2024-09-26T13:00:00+01:00",
                     "tzid": "Europe/London",
@@ -86,6 +94,8 @@
                 "uid": "758bdcf4-da36-4fe1-a90c-2327612e7174"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2024-09-26T13:00:00+01:00",
                     "tzid": "Europe/London",
@@ -105,6 +115,8 @@
                 "uid": "758bdcf4-da36-4fe1-a90c-2327612e7174"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2024-09-26T13:00:00+01:00",
                     "tzid": "Europe/London",

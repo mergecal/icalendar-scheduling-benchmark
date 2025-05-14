@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Cong\u00e9s",
                 "end": {
                     "iso": "2023-08-17T00:00:00+00:00",
                     "tzid": "UTC",

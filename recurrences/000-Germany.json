@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": " . New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Years Day",
                 "end": {
                     "iso": "2008-01-02",
                     "tzid": null,
@@ -29,6 +31,8 @@
                 "uid": "7"
             },
             {
+                "DESCRIPTION": "Baden-W&#252;rttemberg, Bavaria, Saxony-Anhalt. A major Christian celebration. Epiphany commemorates the presentation of the infant Jesus to the wise men\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Epiphany ",
                 "end": {
                     "iso": "2008-01-07",
                     "tzid": null,
@@ -48,6 +52,8 @@
                 "uid": "32"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2008-03-22",
                     "tzid": null,
@@ -67,6 +73,8 @@
                 "uid": "82"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter  is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2008-03-25",
                     "tzid": null,
@@ -86,6 +94,8 @@
                 "uid": "101"
             },
             {
+                "DESCRIPTION": "40 days after Easter. Ascension day commemorates the ascension of Jesus into heaven forty days after his crucifixion and resurrection\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2008-05-02",
                     "tzid": null,
@@ -105,6 +115,8 @@
                 "uid": "133"
             },
             {
+                "DESCRIPTION": " . This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Labour Day ",
                 "end": {
                     "iso": "2008-05-02",
                     "tzid": null,
@@ -124,6 +136,8 @@
                 "uid": "132"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whitmonday ",
                 "end": {
                     "iso": "2008-05-13",
                     "tzid": null,
@@ -143,6 +157,8 @@
                 "uid": "164"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. Since 1990 it has been a national holiday in Germany. It is the only official national holiday\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2008-10-04",
                     "tzid": null,
@@ -162,6 +178,8 @@
                 "uid": "234"
             },
             {
+                "DESCRIPTION": "Baden-W&#252;rttemberg, Bavaria, North Rhine-Westphalia, Rhineland-Palatinate, Saarland. Pope Boniface IV dedicated the day as a holiday to honour the Blessed Virgin Mary and all martyrs\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: All Saints Day ",
                 "end": {
                     "iso": "2008-11-02",
                     "tzid": null,
@@ -181,6 +199,8 @@
                 "uid": "258"
             },
             {
+                "DESCRIPTION": " . The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2008-12-26",
                     "tzid": null,
@@ -200,6 +220,8 @@
                 "uid": "298"
             },
             {
+                "DESCRIPTION": ". The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St Stephens Day",
                 "end": {
                     "iso": "2008-12-27",
                     "tzid": null,
@@ -219,6 +241,8 @@
                 "uid": "318"
             },
             {
+                "DESCRIPTION": " . New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Years Day",
                 "end": {
                     "iso": "2009-01-02",
                     "tzid": null,
@@ -238,6 +262,8 @@
                 "uid": "396"
             },
             {
+                "DESCRIPTION": "Baden-W&#252;rttemberg, Bavaria, Saxony-Anhalt. A major Christian celebration. Epiphany commemorates the presentation of the infant Jesus to the wise men\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Epiphany ",
                 "end": {
                     "iso": "2009-01-07",
                     "tzid": null,
@@ -257,6 +283,8 @@
                 "uid": "411"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2009-04-11",
                     "tzid": null,
@@ -276,6 +304,8 @@
                 "uid": "482"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter  is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2009-04-14",
                     "tzid": null,
@@ -295,6 +325,8 @@
                 "uid": "494"
             },
             {
+                "DESCRIPTION": " . This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Labour Day ",
                 "end": {
                     "iso": "2009-05-02",
                     "tzid": null,
@@ -314,6 +346,8 @@
                 "uid": "528"
             },
             {
+                "DESCRIPTION": "40 days after Easter. Ascension day commemorates the ascension of Jesus into heaven forty days after his crucifixion and resurrection\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2009-05-22",
                     "tzid": null,
@@ -333,6 +367,8 @@
                 "uid": "547"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whitmonday ",
                 "end": {
                     "iso": "2009-06-02",
                     "tzid": null,
@@ -352,6 +388,8 @@
                 "uid": "565"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. Since 1990 it has been a national holiday in Germany. It is the only official national holiday\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2009-10-04",
                     "tzid": null,
@@ -371,6 +409,8 @@
                 "uid": "646"
             },
             {
+                "DESCRIPTION": "Baden-W&#252;rttemberg, Bavaria, North Rhine-Westphalia, Rhineland-Palatinate, Saarland. Pope Boniface IV dedicated the day as a holiday to honour the Blessed Virgin Mary and all martyrs\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: All Saints Day ",
                 "end": {
                     "iso": "2009-11-02",
                     "tzid": null,
@@ -390,6 +430,8 @@
                 "uid": "672"
             },
             {
+                "DESCRIPTION": " . The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2009-12-26",
                     "tzid": null,
@@ -409,6 +451,8 @@
                 "uid": "721"
             },
             {
+                "DESCRIPTION": ". The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St Stephens Day",
                 "end": {
                     "iso": "2009-12-27",
                     "tzid": null,
@@ -428,6 +472,8 @@
                 "uid": "737"
             },
             {
+                "DESCRIPTION": " . New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Years Day",
                 "end": {
                     "iso": "2010-01-02",
                     "tzid": null,
@@ -447,6 +493,8 @@
                 "uid": "928"
             },
             {
+                "DESCRIPTION": "Baden-W&#252;rttemberg, Bavaria, Saxony-Anhalt. A major Christian celebration. Epiphany commemorates the presentation of the infant Jesus to the wise men\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Epiphany ",
                 "end": {
                     "iso": "2010-01-07",
                     "tzid": null,
@@ -466,6 +514,8 @@
                 "uid": "929"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2010-04-03",
                     "tzid": null,
@@ -485,6 +535,8 @@
                 "uid": "930"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter  is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2010-04-06",
                     "tzid": null,
@@ -504,6 +556,8 @@
                 "uid": "931"
             },
             {
+                "DESCRIPTION": " . This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Labour Day ",
                 "end": {
                     "iso": "2010-05-02",
                     "tzid": null,
@@ -523,6 +577,8 @@
                 "uid": "932"
             },
             {
+                "DESCRIPTION": "40 days after Easter. Ascension day commemorates the ascension of Jesus into heaven forty days after his crucifixion and resurrection\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2010-05-14",
                     "tzid": null,
@@ -542,6 +598,8 @@
                 "uid": "933"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whitmonday ",
                 "end": {
                     "iso": "2010-05-25",
                     "tzid": null,
@@ -561,6 +619,8 @@
                 "uid": "934"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. Since 1990 it has been a national holiday in Germany. It is the only official national holiday\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2010-10-04",
                     "tzid": null,
@@ -580,6 +640,8 @@
                 "uid": "937"
             },
             {
+                "DESCRIPTION": "Baden-W&#252;rttemberg, Bavaria, North Rhine-Westphalia, Rhineland-Palatinate, Saarland. Pope Boniface IV dedicated the day as a holiday to honour the Blessed Virgin Mary and all martyrs\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: All Saints Day ",
                 "end": {
                     "iso": "2010-11-02",
                     "tzid": null,
@@ -599,6 +661,8 @@
                 "uid": "939"
             },
             {
+                "DESCRIPTION": " . The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2010-12-26",
                     "tzid": null,
@@ -618,6 +682,8 @@
                 "uid": "941"
             },
             {
+                "DESCRIPTION": ". The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St Stephens Day",
                 "end": {
                     "iso": "2010-12-27",
                     "tzid": null,
@@ -637,6 +703,8 @@
                 "uid": "942"
             },
             {
+                "DESCRIPTION": " . New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Years Day",
                 "end": {
                     "iso": "2011-01-02",
                     "tzid": null,
@@ -656,6 +724,8 @@
                 "uid": "1703"
             },
             {
+                "DESCRIPTION": "Baden-W&#252;rttemberg, Bavaria, Saxony-Anhalt. A major Christian celebration. Epiphany commemorates the presentation of the infant Jesus to the wise men\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Epiphany",
                 "end": {
                     "iso": "2011-01-07",
                     "tzid": null,
@@ -675,6 +745,8 @@
                 "uid": "1342"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2011-04-23",
                     "tzid": null,
@@ -694,6 +766,8 @@
                 "uid": "1523"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter  is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2011-04-26",
                     "tzid": null,
@@ -713,6 +787,8 @@
                 "uid": "1503"
             },
             {
+                "DESCRIPTION": " . This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Labour Day ",
                 "end": {
                     "iso": "2011-05-02",
                     "tzid": null,
@@ -732,6 +808,8 @@
                 "uid": "1472"
             },
             {
+                "DESCRIPTION": "2nd Sunday in May. Not a public holiday.. Muttertag. if Mothers Day falls on Pentecost, the holiday is moved to the first Sunday in May.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Mother's Day [Not a public holiday]",
                 "end": {
                     "iso": "2011-05-09",
                     "tzid": null,
@@ -751,6 +829,8 @@
                 "uid": "2449"
             },
             {
+                "DESCRIPTION": "Celebrated on Ascension Day. \n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Father's Day",
                 "end": {
                     "iso": "2011-06-03",
                     "tzid": null,
@@ -770,6 +850,8 @@
                 "uid": "2454"
             },
             {
+                "DESCRIPTION": "40 days after Easter. Ascension day commemorates the ascension of Jesus into heaven forty days after his crucifixion and resurrection\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2011-06-03",
                     "tzid": null,
@@ -789,6 +871,8 @@
                 "uid": "1326"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whitmonday ",
                 "end": {
                     "iso": "2011-06-14",
                     "tzid": null,
@@ -808,6 +892,8 @@
                 "uid": "1742"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. Since 1990 it has been a national holiday in Germany. It is the only official national holiday\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2011-10-04",
                     "tzid": null,
@@ -827,6 +913,8 @@
                 "uid": "1620"
             },
             {
+                "DESCRIPTION": "Baden-W&#252;rttemberg, Bavaria, North Rhine-Westphalia, Rhineland-Palatinate, Saarland. Pope Boniface IV dedicated the day as a holiday to honour the Blessed Virgin Mary and all martyrs\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: All Saints Day ",
                 "end": {
                     "iso": "2011-11-02",
                     "tzid": null,
@@ -846,6 +934,8 @@
                 "uid": "1312"
             },
             {
+                "DESCRIPTION": " . The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2011-12-26",
                     "tzid": null,
@@ -865,6 +955,8 @@
                 "uid": "1421"
             },
             {
+                "DESCRIPTION": ". The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St Stephens Day",
                 "end": {
                     "iso": "2011-12-27",
                     "tzid": null,
@@ -884,6 +976,8 @@
                 "uid": "1729"
             },
             {
+                "DESCRIPTION": " . New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Years Day",
                 "end": {
                     "iso": "2012-01-02",
                     "tzid": null,
@@ -903,6 +997,8 @@
                 "uid": "1910"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2012-04-07",
                     "tzid": null,
@@ -922,6 +1018,8 @@
                 "uid": "2035"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter  is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2012-04-10",
                     "tzid": null,
@@ -941,6 +1039,8 @@
                 "uid": "2054"
             },
             {
+                "DESCRIPTION": " . This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Labour Day ",
                 "end": {
                     "iso": "2012-05-02",
                     "tzid": null,
@@ -960,6 +1060,8 @@
                 "uid": "2078"
             },
             {
+                "DESCRIPTION": "2nd Sunday in May. Not a public holiday.. Muttertag. if Mothers Day falls on Pentecost, the holiday is moved to the first Sunday in May.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Mother's Day [Not a public holiday]",
                 "end": {
                     "iso": "2012-05-14",
                     "tzid": null,
@@ -979,6 +1081,8 @@
                 "uid": "2450"
             },
             {
+                "DESCRIPTION": "Celebrated on Ascension Day. \n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Father's Day",
                 "end": {
                     "iso": "2012-05-18",
                     "tzid": null,
@@ -998,6 +1102,8 @@
                 "uid": "2455"
             },
             {
+                "DESCRIPTION": "40 days after Easter. Ascension day commemorates the ascension of Jesus into heaven forty days after his crucifixion and resurrection\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2012-05-18",
                     "tzid": null,
@@ -1017,6 +1123,8 @@
                 "uid": "2144"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whitmonday ",
                 "end": {
                     "iso": "2012-05-29",
                     "tzid": null,
@@ -1036,6 +1144,8 @@
                 "uid": "2171"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. Since 1990 it has been a national holiday in Germany. It is the only official national holiday\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2012-10-04",
                     "tzid": null,
@@ -1055,6 +1165,8 @@
                 "uid": "2259"
             },
             {
+                "DESCRIPTION": " . The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2012-12-26",
                     "tzid": null,
@@ -1074,6 +1186,8 @@
                 "uid": "2360"
             },
             {
+                "DESCRIPTION": ". The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St Stephens Day",
                 "end": {
                     "iso": "2012-12-27",
                     "tzid": null,
@@ -1093,6 +1207,8 @@
                 "uid": "2391"
             },
             {
+                "DESCRIPTION": " . New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Years Day",
                 "end": {
                     "iso": "2013-01-02",
                     "tzid": null,
@@ -1112,6 +1228,8 @@
                 "uid": "2632"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2013-03-30",
                     "tzid": null,
@@ -1131,6 +1249,8 @@
                 "uid": "2760"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter  is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2013-04-02",
                     "tzid": null,
@@ -1150,6 +1270,8 @@
                 "uid": "2787"
             },
             {
+                "DESCRIPTION": " . This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Labour Day ",
                 "end": {
                     "iso": "2013-05-02",
                     "tzid": null,
@@ -1169,6 +1291,8 @@
                 "uid": "2840"
             },
             {
+                "DESCRIPTION": "Celebrated on Ascension Day. \n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Father's Day [Not a public holiday]",
                 "end": {
                     "iso": "2013-05-10",
                     "tzid": null,
@@ -1188,6 +1312,8 @@
                 "uid": "2890"
             },
             {
+                "DESCRIPTION": "39 days after Easter Sunday. Commemorates the ascension of Jesus into heaven forty two days after his crucifixion\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2013-05-10",
                     "tzid": null,
@@ -1207,6 +1333,8 @@
                 "uid": "2889"
             },
             {
+                "DESCRIPTION": "2nd Sunday in May. Not a public holiday.. Muttertag. if Mothers Day falls on Pentecost, the holiday is moved to the first Sunday in May.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Mother's Day [Not a public holiday]",
                 "end": {
                     "iso": "2013-05-13",
                     "tzid": null,
@@ -1226,6 +1354,8 @@
                 "uid": "2902"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whitmonday ",
                 "end": {
                     "iso": "2013-05-21",
                     "tzid": null,
@@ -1245,6 +1375,8 @@
                 "uid": "2920"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. Since 1990 it has been a national holiday in Germany. It is the only official national holiday\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2013-10-04",
                     "tzid": null,
@@ -1264,6 +1396,8 @@
                 "uid": "3065"
             },
             {
+                "DESCRIPTION": " . The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2013-12-26",
                     "tzid": null,
@@ -1283,6 +1417,8 @@
                 "uid": "3177"
             },
             {
+                "DESCRIPTION": ". The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St Stephens Day",
                 "end": {
                     "iso": "2013-12-27",
                     "tzid": null,
@@ -1302,6 +1438,8 @@
                 "uid": "3209"
             },
             {
+                "DESCRIPTION": " . New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Years Day",
                 "end": {
                     "iso": "2014-01-02",
                     "tzid": null,
@@ -1321,6 +1459,8 @@
                 "uid": "3602"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2014-04-19",
                     "tzid": null,
@@ -1340,6 +1480,8 @@
                 "uid": "3750"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter  is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2014-04-22",
                     "tzid": null,
@@ -1359,6 +1501,8 @@
                 "uid": "3780"
             },
             {
+                "DESCRIPTION": " . This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Labour Day ",
                 "end": {
                     "iso": "2014-05-02",
                     "tzid": null,
@@ -1378,6 +1522,8 @@
                 "uid": "3840"
             },
             {
+                "DESCRIPTION": "2nd Sunday in May. Not a public holiday.. Muttertag. if Mothers Day falls on Pentecost, the holiday is moved to the first Sunday in May.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Mother's Day [Not a public holiday]",
                 "end": {
                     "iso": "2014-05-12",
                     "tzid": null,
@@ -1397,6 +1543,8 @@
                 "uid": "3913"
             },
             {
+                "DESCRIPTION": "Celebrated on Ascension Day. \n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Father's Day",
                 "end": {
                     "iso": "2014-05-30",
                     "tzid": null,
@@ -1416,6 +1564,8 @@
                 "uid": "3896"
             },
             {
+                "DESCRIPTION": "40 days after Easter. Commemorates the ascension of Jesus into heaven forty two days after his crucifixion\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2014-05-30",
                     "tzid": null,
@@ -1435,6 +1585,8 @@
                 "uid": "3897"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whit Monday",
                 "end": {
                     "iso": "2014-06-10",
                     "tzid": null,
@@ -1454,6 +1606,8 @@
                 "uid": "3935"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. Since 1990 it has been a national holiday in Germany. It is the only official national holiday\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2014-10-04",
                     "tzid": null,
@@ -1473,6 +1627,8 @@
                 "uid": "4120"
             },
             {
+                "DESCRIPTION": " . The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2014-12-26",
                     "tzid": null,
@@ -1492,6 +1648,8 @@
                 "uid": "4265"
             },
             {
+                "DESCRIPTION": ". The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St Stephens Day",
                 "end": {
                     "iso": "2014-12-27",
                     "tzid": null,
@@ -1511,6 +1669,8 @@
                 "uid": "4302"
             },
             {
+                "DESCRIPTION": " . New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Years Day",
                 "end": {
                     "iso": "2015-01-02",
                     "tzid": null,
@@ -1530,6 +1690,8 @@
                 "uid": "4682"
             },
             {
+                "DESCRIPTION": "Fastnacht. Not a Public Holiday. Carnivals are held in some German cities to celebrate and party before the start of Lent\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Fasching [Not a public holiday]",
                 "end": {
                     "iso": "2015-02-17",
                     "tzid": null,
@@ -1549,6 +1711,8 @@
                 "uid": "12019"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2015-04-04",
                     "tzid": null,
@@ -1568,6 +1732,8 @@
                 "uid": "4862"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2015-04-07",
                     "tzid": null,
@@ -1587,6 +1753,8 @@
                 "uid": "4901"
             },
             {
+                "DESCRIPTION": "International Workers Day. This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: May Day ",
                 "end": {
                     "iso": "2015-05-02",
                     "tzid": null,
@@ -1606,6 +1774,8 @@
                 "uid": "4957"
             },
             {
+                "DESCRIPTION": "2nd Sunday in May. Not a public holiday. Muttertag. if Mothers Day falls on Pentecost, the holiday is moved to the first Sunday in May.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Mother's Day [Not a public holiday]",
                 "end": {
                     "iso": "2015-05-11",
                     "tzid": null,
@@ -1625,6 +1795,8 @@
                 "uid": "5024"
             },
             {
+                "DESCRIPTION": "Celebrated on Ascension Day. Father's Day is a celebration that honours the role of fathers\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Father's Day",
                 "end": {
                     "iso": "2015-05-15",
                     "tzid": null,
@@ -1644,6 +1816,8 @@
                 "uid": "5036"
             },
             {
+                "DESCRIPTION": "Himmelfahrt. 40 days after Easter. Commemorates the ascension of Jesus into heaven forty two days after his crucifixion\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2015-05-15",
                     "tzid": null,
@@ -1663,6 +1837,8 @@
                 "uid": "5042"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whit Monday",
                 "end": {
                     "iso": "2015-05-26",
                     "tzid": null,
@@ -1682,6 +1858,8 @@
                 "uid": "5078"
             },
             {
+                "DESCRIPTION": "Start of Oktoberfest. Not a public holiday.. Oktoberfest is held annually in Munich attracting over 5 million visitors each year\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Oktoberfest [Not a public holiday]",
                 "end": {
                     "iso": "2015-09-20",
                     "tzid": null,
@@ -1701,6 +1879,8 @@
                 "uid": "11033"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. Since 1990 it has been a national holiday in Germany. It is the only official national holiday\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2015-10-04",
                     "tzid": null,
@@ -1720,6 +1900,8 @@
                 "uid": "5293"
             },
             {
+                "DESCRIPTION": " . The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2015-12-26",
                     "tzid": null,
@@ -1739,6 +1921,8 @@
                 "uid": "5451"
             },
             {
+                "DESCRIPTION": "Second day of Christmas. The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St Stephens Day",
                 "end": {
                     "iso": "2015-12-27",
                     "tzid": null,
@@ -1758,6 +1942,8 @@
                 "uid": "5493"
             },
             {
+                "DESCRIPTION": " . New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Years Day",
                 "end": {
                     "iso": "2016-01-02",
                     "tzid": null,
@@ -1777,6 +1963,8 @@
                 "uid": "6378"
             },
             {
+                "DESCRIPTION": "Fastnacht. Not a Public Holiday. Carnivals are held in some German cities to celebrate and party before the start of Lent\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Fasching [Not a public holiday]",
                 "end": {
                     "iso": "2016-02-09",
                     "tzid": null,
@@ -1796,6 +1984,8 @@
                 "uid": "12017"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2016-03-26",
                     "tzid": null,
@@ -1815,6 +2005,8 @@
                 "uid": "6614"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2016-03-29",
                     "tzid": null,
@@ -1834,6 +2026,8 @@
                 "uid": "6656"
             },
             {
+                "DESCRIPTION": " . This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Labour Day ",
                 "end": {
                     "iso": "2016-05-02",
                     "tzid": null,
@@ -1853,6 +2047,8 @@
                 "uid": "6747"
             },
             {
+                "DESCRIPTION": "Celebrated on Ascension Day. Celebrated on Ascension Day. Father&#39;s Day is a celebration that honours the role of fathers\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Father's Day [Not a public holiday]",
                 "end": {
                     "iso": "2016-05-06",
                     "tzid": null,
@@ -1872,6 +2068,8 @@
                 "uid": "6815"
             },
             {
+                "DESCRIPTION": "Himmelfahrt. 40 days after Easter. Commemorates the ascension of Jesus into heaven forty two days after his crucifixion\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2016-05-06",
                     "tzid": null,
@@ -1891,6 +2089,8 @@
                 "uid": "6821"
             },
             {
+                "DESCRIPTION": "2nd Sunday in May. Not a public holiday. Muttertag. if Mothers Day falls on Pentecost, the holiday is moved to the first Sunday in May.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Mother's Day [Not a public holiday]",
                 "end": {
                     "iso": "2016-05-09",
                     "tzid": null,
@@ -1910,6 +2110,8 @@
                 "uid": "6849"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whit Monday ",
                 "end": {
                     "iso": "2016-05-17",
                     "tzid": null,
@@ -1929,6 +2131,8 @@
                 "uid": "6880"
             },
             {
+                "DESCRIPTION": "Start of Oktoberfest. Not a public holiday.. Oktoberfest is held annually in Munich attracting over 5 million visitors each year\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Oktoberfest [Not a public holiday]",
                 "end": {
                     "iso": "2016-09-18",
                     "tzid": null,
@@ -1948,6 +2152,8 @@
                 "uid": "11034"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. This is Germany's National Day. It marks the reunification of Germany that took place on 3 October 1990\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2016-10-04",
                     "tzid": null,
@@ -1967,6 +2173,8 @@
                 "uid": "7224"
             },
             {
+                "DESCRIPTION": " . The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2016-12-26",
                     "tzid": null,
@@ -1986,6 +2194,8 @@
                 "uid": "7423"
             },
             {
+                "DESCRIPTION": "Second day of Christmas. The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St Stephens Day",
                 "end": {
                     "iso": "2016-12-27",
                     "tzid": null,
@@ -2005,6 +2215,8 @@
                 "uid": "7475"
             },
             {
+                "DESCRIPTION": " . New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Years Day",
                 "end": {
                     "iso": "2017-01-02",
                     "tzid": null,
@@ -2024,6 +2236,8 @@
                 "uid": "9016"
             },
             {
+                "DESCRIPTION": "Fastnacht. Not a Public Holiday. Carnivals are held in some German cities to celebrate and party before the start of Lent\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Fasching [Not a public holiday]",
                 "end": {
                     "iso": "2017-02-28",
                     "tzid": null,
@@ -2043,6 +2257,8 @@
                 "uid": "12018"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2017-04-15",
                     "tzid": null,
@@ -2062,6 +2278,8 @@
                 "uid": "9424"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2017-04-18",
                     "tzid": null,
@@ -2081,6 +2299,8 @@
                 "uid": "9498"
             },
             {
+                "DESCRIPTION": " . This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Labour Day ",
                 "end": {
                     "iso": "2017-05-02",
                     "tzid": null,
@@ -2100,6 +2320,8 @@
                 "uid": "9635"
             },
             {
+                "DESCRIPTION": "2nd Sunday in May. Not a public holiday. Muttertag. if Mothers Day falls on Pentecost, the holiday is moved to the first Sunday in May.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Mother's Day [Not a public holiday]",
                 "end": {
                     "iso": "2017-05-15",
                     "tzid": null,
@@ -2119,6 +2341,8 @@
                 "uid": "9719"
             },
             {
+                "DESCRIPTION": "Himmelfahrt. 40 days after Easter. Commemorates the ascension of Jesus into heaven forty two days after his crucifixion\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2017-05-26",
                     "tzid": null,
@@ -2138,6 +2362,8 @@
                 "uid": "9759"
             },
             {
+                "DESCRIPTION": "Celebrated on Ascension Day. Celebrated on Ascension Day\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Father's Day [Not a public holiday]",
                 "end": {
                     "iso": "2017-05-26",
                     "tzid": null,
@@ -2157,6 +2383,8 @@
                 "uid": "9768"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whit Monday",
                 "end": {
                     "iso": "2017-06-06",
                     "tzid": null,
@@ -2176,6 +2404,8 @@
                 "uid": "9827"
             },
             {
+                "DESCRIPTION": "Start of Oktoberfest. Not a public holiday.. Oktoberfest is held annually in Munich attracting over 5 million visitors each year\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Oktoberfest [Not a public holiday]",
                 "end": {
                     "iso": "2017-09-17",
                     "tzid": null,
@@ -2195,6 +2425,8 @@
                 "uid": "11035"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. Commemorates the anniversary of German reunification in 1990\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2017-10-04",
                     "tzid": null,
@@ -2214,6 +2446,8 @@
                 "uid": "10304"
             },
             {
+                "DESCRIPTION": "Nationwide holiday in 2017 to mark the 500th anniversary. Marks the day in 1517 when a German monk named Martin Luther strode up to the church in Wittenburg and nailed his 95 &#39;theses&#39; to the church door\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Day of Reformation ",
                 "end": {
                     "iso": "2017-11-01",
                     "tzid": null,
@@ -2233,6 +2467,8 @@
                 "uid": "10383"
             },
             {
+                "DESCRIPTION": " . The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2017-12-26",
                     "tzid": null,
@@ -2252,6 +2488,8 @@
                 "uid": "10600"
             },
             {
+                "DESCRIPTION": "Second day of Christmas. The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St Stephens Day",
                 "end": {
                     "iso": "2017-12-27",
                     "tzid": null,
@@ -2271,6 +2509,8 @@
                 "uid": "10671"
             },
             {
+                "DESCRIPTION": ". New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Year's Day",
                 "end": {
                     "iso": "2018-01-02",
                     "tzid": null,
@@ -2290,6 +2530,8 @@
                 "uid": "12790"
             },
             {
+                "DESCRIPTION": "Fastnacht. Not a Public Holiday. Carnivals are held in some German cities to celebrate and party before the start of Lent\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Fasching [Not a public holiday]",
                 "end": {
                     "iso": "2018-02-13",
                     "tzid": null,
@@ -2309,6 +2551,8 @@
                 "uid": "12792"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2018-03-31",
                     "tzid": null,
@@ -2328,6 +2572,8 @@
                 "uid": "12793"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2018-04-03",
                     "tzid": null,
@@ -2347,6 +2593,8 @@
                 "uid": "12794"
             },
             {
+                "DESCRIPTION": ". This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Labour Day ",
                 "end": {
                     "iso": "2018-05-02",
                     "tzid": null,
@@ -2366,6 +2614,8 @@
                 "uid": "12795"
             },
             {
+                "DESCRIPTION": "Himmelfahrt. 40 days after Easter. Commemorates the ascension of Jesus into heaven forty two days after his crucifixion\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2018-05-11",
                     "tzid": null,
@@ -2385,6 +2635,8 @@
                 "uid": "12796"
             },
             {
+                "DESCRIPTION": "Celebrated on Ascension Day. Celebrated on Ascension Day. Father&#39;s Day is a celebration that honours the role of fathers\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Father's Day [Not a public holiday]",
                 "end": {
                     "iso": "2018-05-11",
                     "tzid": null,
@@ -2404,6 +2656,8 @@
                 "uid": "12797"
             },
             {
+                "DESCRIPTION": "2nd Sunday in May. Not a public holiday. Muttertag. if Mothers Day falls on Pentecost, the holiday is moved to the first Sunday in May.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Mother's Day [Not a public holiday]",
                 "end": {
                     "iso": "2018-05-14",
                     "tzid": null,
@@ -2423,6 +2677,8 @@
                 "uid": "12798"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whit Monday ",
                 "end": {
                     "iso": "2018-05-22",
                     "tzid": null,
@@ -2442,6 +2698,8 @@
                 "uid": "12799"
             },
             {
+                "DESCRIPTION": "Start of Oktoberfest. Not a public holiday.. Oktoberfest is held annually in Munich attracting over 5 million visitors each year\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Oktoberfest [Not a public holiday]",
                 "end": {
                     "iso": "2018-09-23",
                     "tzid": null,
@@ -2461,6 +2719,8 @@
                 "uid": "12802"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. Commemorates the anniversary of German reunification in 1990\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2018-10-04",
                     "tzid": null,
@@ -2480,6 +2740,8 @@
                 "uid": "12803"
             },
             {
+                "DESCRIPTION": ". The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2018-12-26",
                     "tzid": null,
@@ -2499,6 +2761,8 @@
                 "uid": "12807"
             },
             {
+                "DESCRIPTION": "Second day of Christmas. The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St. Stephen's Day",
                 "end": {
                     "iso": "2018-12-27",
                     "tzid": null,
@@ -2518,6 +2782,8 @@
                 "uid": "12808"
             },
             {
+                "DESCRIPTION": ". New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Year's Day",
                 "end": {
                     "iso": "2019-01-02",
                     "tzid": null,
@@ -2537,6 +2803,8 @@
                 "uid": "15596"
             },
             {
+                "DESCRIPTION": "Fastnacht. Not a Public Holiday. Carnivals are held in some German cities to celebrate and party before the start of Lent\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Fasching [Not a public holiday]",
                 "end": {
                     "iso": "2019-03-05",
                     "tzid": null,
@@ -2556,6 +2824,8 @@
                 "uid": "15598"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2019-04-20",
                     "tzid": null,
@@ -2575,6 +2845,8 @@
                 "uid": "15599"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2019-04-23",
                     "tzid": null,
@@ -2594,6 +2866,8 @@
                 "uid": "15600"
             },
             {
+                "DESCRIPTION": ". This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Labour Day ",
                 "end": {
                     "iso": "2019-05-02",
                     "tzid": null,
@@ -2613,6 +2887,8 @@
                 "uid": "15601"
             },
             {
+                "DESCRIPTION": "2nd Sunday in May. Not a public holiday. Muttertag. if Mothers Day falls on Pentecost, the holiday is moved to the first Sunday in May.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Mother's Day [Not a public holiday]",
                 "end": {
                     "iso": "2019-05-13",
                     "tzid": null,
@@ -2632,6 +2908,8 @@
                 "uid": "15602"
             },
             {
+                "DESCRIPTION": "Himmelfahrt. 40 days after Easter. Commemorates the ascension of Jesus into heaven forty two days after his crucifixion\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2019-05-31",
                     "tzid": null,
@@ -2651,6 +2929,8 @@
                 "uid": "15603"
             },
             {
+                "DESCRIPTION": "Celebrated on Ascension Day. Celebrated on Ascension Day. Father&#39;s Day is a celebration that honours the role of fathers\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Father's Day [Not a public holiday]",
                 "end": {
                     "iso": "2019-05-31",
                     "tzid": null,
@@ -2670,6 +2950,8 @@
                 "uid": "15604"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whit Monday ",
                 "end": {
                     "iso": "2019-06-11",
                     "tzid": null,
@@ -2689,6 +2971,8 @@
                 "uid": "15605"
             },
             {
+                "DESCRIPTION": "Start of Oktoberfest. Not a public holiday.. Oktoberfest is held annually in Munich attracting over 5 million visitors each year\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Oktoberfest [Not a public holiday]",
                 "end": {
                     "iso": "2019-09-22",
                     "tzid": null,
@@ -2708,6 +2992,8 @@
                 "uid": "15608"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. Commemorates the anniversary of German reunification in 1990\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2019-10-04",
                     "tzid": null,
@@ -2727,6 +3013,8 @@
                 "uid": "15609"
             },
             {
+                "DESCRIPTION": ". The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2019-12-26",
                     "tzid": null,
@@ -2746,6 +3034,8 @@
                 "uid": "15613"
             },
             {
+                "DESCRIPTION": "Second day of Christmas. The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St. Stephen's Day",
                 "end": {
                     "iso": "2019-12-27",
                     "tzid": null,
@@ -2765,6 +3055,8 @@
                 "uid": "15614"
             },
             {
+                "DESCRIPTION": ". New Years Day is a public holiday in all countries that observe the Gregorian calendar, with the exception of Israel\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: New Year's Day",
                 "end": {
                     "iso": "2020-01-02",
                     "tzid": null,
@@ -2784,6 +3076,8 @@
                 "uid": "19704"
             },
             {
+                "DESCRIPTION": "Fastnacht. Not a Public Holiday. Carnivals are held in some German cities to celebrate and party before the start of Lent\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Fasching [Not a public holiday]",
                 "end": {
                     "iso": "2020-02-25",
                     "tzid": null,
@@ -2803,6 +3097,8 @@
                 "uid": "20106"
             },
             {
+                "DESCRIPTION": "Friday before Easter Sunday. Good Friday occurs on the Friday before Easter. The day commemorates the Crucifixion of Jesus.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Good Friday ",
                 "end": {
                     "iso": "2020-04-11",
                     "tzid": null,
@@ -2822,6 +3118,8 @@
                 "uid": "20403"
             },
             {
+                "DESCRIPTION": "Monday after Easter Sunday. Easter is probably the most important holiday of the Christian year, celebrating the Resurrection of Jesus\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Easter Monday",
                 "end": {
                     "iso": "2020-04-14",
                     "tzid": null,
@@ -2841,6 +3139,8 @@
                 "uid": "20549"
             },
             {
+                "DESCRIPTION": ". This holiday is most commonly associated as a commemoration of the achievements of the labor movement\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Labour Day ",
                 "end": {
                     "iso": "2020-05-02",
                     "tzid": null,
@@ -2860,6 +3160,8 @@
                 "uid": "20789"
             },
             {
+                "DESCRIPTION": "Berlin. Berlin's parliament has established 8 May 2020 as a one-off holiday to celebrate the 75th anniversary of the end of World War II in Europe.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Victory in Europe Day",
                 "end": {
                     "iso": "2020-05-09",
                     "tzid": null,
@@ -2879,6 +3181,8 @@
                 "uid": "23031"
             },
             {
+                "DESCRIPTION": "2nd Sunday in May. Not a public holiday. Muttertag. if Mothers Day falls on Pentecost, the holiday is moved to the first Sunday in May.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Mother's Day [Not a public holiday]",
                 "end": {
                     "iso": "2020-05-11",
                     "tzid": null,
@@ -2898,6 +3202,8 @@
                 "uid": "20992"
             },
             {
+                "DESCRIPTION": "Himmelfahrt. 40 days after Easter. Commemorates the ascension of Jesus into heaven forty two days after his crucifixion\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Ascension Day",
                 "end": {
                     "iso": "2020-05-22",
                     "tzid": null,
@@ -2917,6 +3223,8 @@
                 "uid": "21051"
             },
             {
+                "DESCRIPTION": "Celebrated on Ascension Day. Celebrated on Ascension Day. Father&#39;s Day is a celebration that honours the role of fathers\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Father's Day [Not a public holiday]",
                 "end": {
                     "iso": "2020-05-22",
                     "tzid": null,
@@ -2936,6 +3244,8 @@
                 "uid": "21052"
             },
             {
+                "DESCRIPTION": "7th Monday after Easter. Also Known as Pentecost Monday. Commemorates the coming of the Holy Spirit in the form of flames to the Apostles.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Whit Monday ",
                 "end": {
                     "iso": "2020-06-02",
                     "tzid": null,
@@ -2955,6 +3265,8 @@
                 "uid": "21281"
             },
             {
+                "DESCRIPTION": "Start of Oktoberfest. Not a public holiday.. Oktoberfest is held annually in Munich attracting over 5 million visitors each year\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Oktoberfest [Not a public holiday]",
                 "end": {
                     "iso": "2020-09-20",
                     "tzid": null,
@@ -2974,6 +3286,8 @@
                 "uid": "21984"
             },
             {
+                "DESCRIPTION": "Celebrated on October 3rd. Commemorates the anniversary of German reunification in 1990\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: German Unity Day ",
                 "end": {
                     "iso": "2020-10-04",
                     "tzid": null,
@@ -2993,6 +3307,8 @@
                 "uid": "22044"
             },
             {
+                "DESCRIPTION": ". The day celebrates the Nativity of Jesus, the date which according to tradition took place on 25th December 1 BC\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: Christmas Day ",
                 "end": {
                     "iso": "2020-12-26",
                     "tzid": null,
@@ -3012,6 +3328,8 @@
                 "uid": "22556"
             },
             {
+                "DESCRIPTION": "Second day of Christmas. The second day of Christmas is known as Boxing Day or St. Stephens Day.  St Stephen was the first Christian martyr.\n\nInformation provided by www.officeholidays.com",
+                "SUMMARY": "Germany: St. Stephen's Day",
                 "end": {
                     "iso": "2020-12-27",
                     "tzid": null,

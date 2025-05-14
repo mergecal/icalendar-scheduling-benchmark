@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Reoccur",
                 "end": {
                     "iso": "2020-04-26T14:30:00+02:00",
                     "tzid": "Europe/Berlin",
@@ -29,6 +31,8 @@
                 "uid": "3bbe38c205956551730fc9233525fe268296ec02"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Reoccur",
                 "end": {
                     "iso": "2020-04-28T14:30:00+02:00",
                     "tzid": "Europe/Berlin",

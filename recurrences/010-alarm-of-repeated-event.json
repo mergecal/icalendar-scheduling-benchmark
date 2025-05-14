@@ -10,6 +10,8 @@
             {
                 "acknowledged": false,
                 "parent": {
+                    "DESCRIPTION": "first alarm snoozed of repeated event",
+                    "SUMMARY": "repeated event",
                     "end": {
                         "iso": "2024-10-01T11:00:00+01:00",
                         "tzid": "Europe/London",
@@ -38,6 +40,8 @@
             {
                 "acknowledged": false,
                 "parent": {
+                    "DESCRIPTION": "first alarm snoozed of repeated event",
+                    "SUMMARY": "repeated event",
                     "end": {
                         "iso": "2024-10-08T11:00:00+01:00",
                         "tzid": "Europe/London",
@@ -66,6 +70,8 @@
             {
                 "acknowledged": false,
                 "parent": {
+                    "DESCRIPTION": "first alarm snoozed of repeated event",
+                    "SUMMARY": "repeated event",
                     "end": {
                         "iso": "2024-10-15T11:00:00+01:00",
                         "tzid": "Europe/London",
@@ -94,6 +100,8 @@
             {
                 "acknowledged": false,
                 "parent": {
+                    "DESCRIPTION": "first alarm snoozed of repeated event",
+                    "SUMMARY": "repeated event",
                     "end": {
                         "iso": "2024-10-22T11:00:00+01:00",
                         "tzid": "Europe/London",
@@ -122,6 +130,8 @@
             {
                 "acknowledged": false,
                 "parent": {
+                    "DESCRIPTION": "first alarm snoozed of repeated event",
+                    "SUMMARY": "repeated event",
                     "end": {
                         "iso": "2024-10-29T11:00:00+00:00",
                         "tzid": "Europe/London",
@@ -150,6 +160,8 @@
             {
                 "acknowledged": false,
                 "parent": {
+                    "DESCRIPTION": "first alarm snoozed of repeated event",
+                    "SUMMARY": "repeated event",
                     "end": {
                         "iso": "2024-11-05T11:00:00+00:00",
                         "tzid": "Europe/London",
@@ -179,6 +191,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "first alarm snoozed of repeated event",
+                "SUMMARY": "repeated event",
                 "end": {
                     "iso": "2024-10-01T11:00:00+01:00",
                     "tzid": "Europe/London",
@@ -198,6 +212,8 @@
                 "uid": "77646b28-edc7-4b4e-b396-9f2e64075baf"
             },
             {
+                "DESCRIPTION": "first alarm snoozed of repeated event",
+                "SUMMARY": "repeated event",
                 "end": {
                     "iso": "2024-10-08T11:00:00+01:00",
                     "tzid": "Europe/London",
@@ -217,6 +233,8 @@
                 "uid": "77646b28-edc7-4b4e-b396-9f2e64075baf"
             },
             {
+                "DESCRIPTION": "first alarm snoozed of repeated event",
+                "SUMMARY": "repeated event",
                 "end": {
                     "iso": "2024-10-15T11:00:00+01:00",
                     "tzid": "Europe/London",
@@ -236,6 +254,8 @@
                 "uid": "77646b28-edc7-4b4e-b396-9f2e64075baf"
             },
             {
+                "DESCRIPTION": "first alarm snoozed of repeated event",
+                "SUMMARY": "repeated event",
                 "end": {
                     "iso": "2024-10-22T11:00:00+01:00",
                     "tzid": "Europe/London",
@@ -255,6 +275,8 @@
                 "uid": "77646b28-edc7-4b4e-b396-9f2e64075baf"
             },
             {
+                "DESCRIPTION": "first alarm snoozed of repeated event",
+                "SUMMARY": "repeated event",
                 "end": {
                     "iso": "2024-10-29T11:00:00+00:00",
                     "tzid": "Europe/London",
@@ -274,6 +296,8 @@
                 "uid": "77646b28-edc7-4b4e-b396-9f2e64075baf"
             },
             {
+                "DESCRIPTION": "first alarm snoozed of repeated event",
+                "SUMMARY": "repeated event",
                 "end": {
                     "iso": "2024-11-05T11:00:00+00:00",
                     "tzid": "Europe/London",

@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event 1",
                 "end": {
                     "iso": "2024-03-30T07:00:00+00:00",
                     "tzid": "Europe/London",
@@ -29,6 +31,8 @@
                 "uid": "b23d11e6-a296-44a1-b51b-8ab651ec7d13"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event 2",
                 "end": {
                     "iso": "2024-03-26T07:00:00+00:00",
                     "tzid": "Europe/London",
@@ -48,6 +52,8 @@
                 "uid": "ba53fb81-aeac-42d4-9046-534f76653647"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event 3",
                 "end": {
                     "iso": "2024-03-27T07:00:00+00:00",
                     "tzid": "Europe/London",
@@ -67,6 +73,8 @@
                 "uid": "ba53fb81-aeac-42d4-9046-534f76653647"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event 4",
                 "end": {
                     "iso": "2024-03-28T16:00:00+00:00",
                     "tzid": "Europe/London",
@@ -86,6 +94,8 @@
                 "uid": "bcec4006-050a-43d2-9f81-4cc35f77a1d1"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event 5",
                 "end": {
                     "iso": "2024-03-27T20:00:00+00:00",
                     "tzid": "Europe/London",
@@ -105,6 +115,8 @@
                 "uid": "ba53fb81-aeac-42d4-9046-534f76653647"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event 6",
                 "end": {
                     "iso": "2024-03-29",
                     "tzid": null,
@@ -124,6 +136,8 @@
                 "uid": "49c1ccdb-5afa-4fed-a416-024070e97984"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event 7",
                 "end": {
                     "iso": "2024-03-30",
                     "tzid": null,

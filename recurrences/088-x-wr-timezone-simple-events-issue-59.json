@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Google Calendar says this is noon to 1PM on 12/22/2021",
                 "end": {
                     "iso": "2021-12-22T13:00:00-05:00",
                     "tzid": "America/New_York",
@@ -29,6 +31,8 @@
                 "uid": "3bc4jff97631or97ntnk75n4se@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Google says this is 9PM to 10PM on 12/22/2021",
                 "end": {
                     "iso": "2021-12-22T22:00:00-05:00",
                     "tzid": "America/New_York",

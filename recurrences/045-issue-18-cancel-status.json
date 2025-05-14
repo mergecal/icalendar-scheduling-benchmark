@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "one is cancelled",
                 "end": {
                     "iso": "2020-01-28T23:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -29,6 +31,8 @@
                 "uid": "b65c2b5b-b785-4edc-9560-e0379036d1f2"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "one is cancelled",
                 "end": {
                     "iso": "2020-01-29T23:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -48,6 +52,8 @@
                 "uid": "b65c2b5b-b785-4edc-9560-e0379036d1f2"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "one is cancelled",
                 "end": {
                     "iso": "2020-01-30T23:00:00+01:00",
                     "tzid": "Europe/Berlin",

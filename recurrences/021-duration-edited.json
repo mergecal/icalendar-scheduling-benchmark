@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "original event",
                 "end": {
                     "iso": "2019-03-18T05:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -29,6 +31,8 @@
                 "uid": "5d4c6843-9300-4f91-8d88-6094d4b0b840"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "edited duration",
                 "end": {
                     "iso": "2019-03-19T07:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -48,6 +52,8 @@
                 "uid": "5d4c6843-9300-4f91-8d88-6094d4b0b840"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "original event",
                 "end": {
                     "iso": "2019-03-20T05:00:00+01:00",
                     "tzid": "Europe/Berlin",

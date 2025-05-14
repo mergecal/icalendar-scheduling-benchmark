@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "Summary",
+                "SUMMARY": "Summary",
                 "end": {
                     "iso": "2021-09-16T22:45:00+02:00",
                     "tzid": "Europe/Brussels",

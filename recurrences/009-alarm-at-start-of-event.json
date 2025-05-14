@@ -10,6 +10,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "alarm at start of event",
+                    "SUMMARY": "event",
                     "end": {
                         "iso": "2024-10-04T04:00:00-07:00",
                         "tzid": "America/Los_Angeles",
@@ -39,6 +41,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "alarm at start of event",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2024-10-04T04:00:00-07:00",
                     "tzid": "America/Los_Angeles",

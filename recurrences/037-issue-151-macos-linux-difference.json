@@ -10,6 +10,8 @@
             {
                 "acknowledged": false,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "Vespers for the Feast of St. Joseph",
                     "end": {
                         "iso": "2014-08-01T20:00:00-07:00",
                         "tzid": "America/Los_Angeles",
@@ -38,6 +40,8 @@
             {
                 "acknowledged": false,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "Vespers for the Feast of St. Joseph",
                     "end": {
                         "iso": "2014-08-01T19:30:00-07:00",
                         "tzid": "America/Los_Angeles",
@@ -67,6 +71,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2014-08-01T19:30:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -86,6 +92,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2015-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -105,6 +113,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2017-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -124,6 +134,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2018-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -143,6 +155,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2019-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -162,6 +176,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2020-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -181,6 +197,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2021-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -200,6 +218,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2022-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -219,6 +239,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2023-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -238,6 +260,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2024-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -257,6 +281,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2025-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -276,6 +302,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2026-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -295,6 +323,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2027-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -314,6 +344,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2028-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -333,6 +365,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2029-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -352,6 +386,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2030-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -371,6 +407,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2031-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -390,6 +428,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2032-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -409,6 +449,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2033-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -428,6 +470,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2034-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -447,6 +491,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2035-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -466,6 +512,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2036-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -485,6 +533,8 @@
                 "uid": "aogpprh4bolu8ckmop49ca6404@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Vespers for the Feast of St. Joseph",
                 "end": {
                     "iso": "2037-08-01T20:00:00-07:00",
                     "tzid": "America/Los_Angeles",

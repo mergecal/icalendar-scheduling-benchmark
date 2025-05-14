@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-01-12T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -29,6 +31,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-01-19T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -48,6 +52,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-01-26T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -67,6 +73,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-02-02T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -86,6 +94,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-02-09T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -105,6 +115,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-02-13T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -124,6 +136,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-02-16T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -143,6 +157,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-02-23T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -162,6 +178,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-03-02T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -181,6 +199,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-03-09T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -200,6 +220,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-03-13T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -219,6 +241,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-03-16T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -238,6 +262,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-03-23T12:00:00+00:00",
                     "tzid": "Europe/London",
@@ -257,6 +283,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-03-30T12:00:00+01:00",
                     "tzid": "Europe/London",
@@ -276,6 +304,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-04-06T12:00:00+01:00",
                     "tzid": "Europe/London",
@@ -295,6 +325,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-04-13T12:00:00+01:00",
                     "tzid": "Europe/London",
@@ -314,6 +346,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-04-20T12:00:00+01:00",
                     "tzid": "Europe/London",
@@ -333,6 +367,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-04-27T12:00:00+01:00",
                     "tzid": "Europe/London",
@@ -352,6 +388,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-05-04T12:00:00+01:00",
                     "tzid": "Europe/London",
@@ -371,6 +409,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-05-11T12:00:00+01:00",
                     "tzid": "Europe/London",
@@ -390,6 +430,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-05-18T12:00:00+01:00",
                     "tzid": "Europe/London",
@@ -409,6 +451,8 @@
                 "uid": "56cdc4dc-11b7-407c-86c6-9faedfc28afb"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "My repeating event",
                 "end": {
                     "iso": "2023-05-25T12:00:00+01:00",
                     "tzid": "Europe/London",

@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "TEXT",
                 "end": {
                     "iso": "2019-08-24",
                     "tzid": null,
@@ -29,6 +31,8 @@
                 "uid": "2334a952-f89f-4308-9639-fc22dc70519f"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "TEXT",
                 "end": {
                     "iso": "2019-08-31",
                     "tzid": null,

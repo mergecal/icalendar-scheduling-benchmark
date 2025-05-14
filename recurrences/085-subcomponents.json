@@ -10,6 +10,8 @@
             {
                 "acknowledged": false,
                 "parent": {
+                    "DESCRIPTION": "redacted",
+                    "SUMMARY": "redacted",
                     "end": {
                         "iso": "2019-05-27T16:30:00+02:00",
                         "tzid": "Europe/Berlin",
@@ -39,6 +41,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "redacted",
+                "SUMMARY": "redacted",
                 "end": {
                     "iso": "2019-05-27T16:30:00+02:00",
                     "tzid": "Europe/Berlin",

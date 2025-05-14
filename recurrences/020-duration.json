@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "Event with duration (3 days), instead of explicit end.",
+                "SUMMARY": "Duration Event 1",
                 "end": {
                     "iso": "2018-01-13",
                     "tzid": null,
@@ -29,6 +31,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "Event with duration (3 hours), instead of explicit end.",
+                "SUMMARY": "Duration Event 2",
                 "end": {
                     "iso": "2018-01-15T13:00:00",
                     "tzid": null,
@@ -48,6 +52,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "Event without explicit dtend, nor duration property.",
+                "SUMMARY": "Short event",
                 "end": {
                     "iso": "2018-01-20T12:00:00",
                     "tzid": null,

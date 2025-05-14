@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test123 - edited",
                 "end": {
                     "iso": "2024-07-08",
                     "tzid": null,
@@ -29,6 +31,8 @@
                 "uid": "111"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test123 - edited",
                 "end": {
                     "iso": "2024-08-05",
                     "tzid": null,

@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Datetime",
                 "end": {
                     "iso": "2023-08-08T15:00:00+10:00",
                     "tzid": "Australia/Sydney",
@@ -29,6 +31,8 @@
                 "uid": "7v3ju5ft4je5iq18nfdk2s3spk@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "All Day",
                 "end": {
                     "iso": "2023-08-11",
                     "tzid": null,
@@ -48,6 +52,8 @@
                 "uid": "6ep37v20d728v14rcgn17v9is6@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Datetime",
                 "end": {
                     "iso": "2023-08-14T15:00:00+10:00",
                     "tzid": "Australia/Sydney",
@@ -67,6 +73,8 @@
                 "uid": "7v3ju5ft4je5iq18nfdk2s3spk@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "All Day",
                 "end": {
                     "iso": "2023-08-17",
                     "tzid": null,
@@ -86,6 +94,8 @@
                 "uid": "6ep37v20d728v14rcgn17v9is6@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Datetime",
                 "end": {
                     "iso": "2023-08-22T15:00:00+10:00",
                     "tzid": "Australia/Sydney",
@@ -105,6 +115,8 @@
                 "uid": "7v3ju5ft4je5iq18nfdk2s3spk@google.com"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "All Day",
                 "end": {
                     "iso": "2023-08-25",
                     "tzid": null,

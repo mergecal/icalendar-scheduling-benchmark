@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-01-05T11:00:00-08:00",
                     "tzid": "America/Los_Angeles",
@@ -29,6 +31,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-01-12T11:00:00-08:00",
                     "tzid": "America/Los_Angeles",
@@ -48,6 +52,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-01-19T11:00:00-08:00",
                     "tzid": "America/Los_Angeles",
@@ -67,6 +73,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-01-26T11:00:00-08:00",
                     "tzid": "America/Los_Angeles",
@@ -86,6 +94,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-02-02T11:00:00-08:00",
                     "tzid": "America/Los_Angeles",
@@ -105,6 +115,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-02-09T11:00:00-08:00",
                     "tzid": "America/Los_Angeles",
@@ -124,6 +136,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-02-16T11:00:00-08:00",
                     "tzid": "America/Los_Angeles",
@@ -143,6 +157,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-02-23T11:00:00-08:00",
                     "tzid": "America/Los_Angeles",
@@ -162,6 +178,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-03-02T11:00:00-08:00",
                     "tzid": "America/Los_Angeles",
@@ -181,6 +199,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-03-09T11:00:00-08:00",
                     "tzid": "America/Los_Angeles",
@@ -200,6 +220,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-03-16T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -219,6 +241,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-03-23T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -238,6 +262,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-03-30T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -257,6 +283,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-04-06T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -276,6 +304,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-04-13T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -295,6 +325,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-04-20T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -314,6 +346,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-04-27T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -333,6 +367,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-05-04T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -352,6 +388,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-05-11T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -371,6 +409,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-05-18T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -390,6 +430,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-05-25T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -409,6 +451,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-06-01T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",
@@ -428,6 +472,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "",
                 "end": {
                     "iso": "2023-06-08T11:00:00-07:00",
                     "tzid": "America/Los_Angeles",

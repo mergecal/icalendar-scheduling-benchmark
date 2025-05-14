@@ -10,6 +10,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "Event with different alarms at the same time",
                     "end": {
                         "iso": "2024-12-20T15:00:00+00:00",
                         "tzid": "Europe/London",
@@ -38,6 +40,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "Event with different alarms at the same time",
                     "end": {
                         "iso": "2024-12-20T15:00:00+00:00",
                         "tzid": "Europe/London",
@@ -66,6 +70,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "Event with different alarms at the same time",
                     "end": {
                         "iso": "2024-12-20T15:00:00+00:00",
                         "tzid": "Europe/London",
@@ -94,6 +100,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "Event with different alarms at the same time",
                     "end": {
                         "iso": "2024-12-20T15:00:00+00:00",
                         "tzid": "Europe/London",
@@ -122,6 +130,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "Event with different alarms at the same time",
                     "end": {
                         "iso": "2024-12-21T15:00:00+00:00",
                         "tzid": "Europe/London",
@@ -150,6 +160,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "Event with different alarms at the same time",
                     "end": {
                         "iso": "2024-12-21T15:00:00+00:00",
                         "tzid": "Europe/London",
@@ -178,6 +190,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "Event with different alarms at the same time",
                     "end": {
                         "iso": "2024-12-21T15:00:00+00:00",
                         "tzid": "Europe/London",
@@ -206,6 +220,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "Event with different alarms at the same time",
                     "end": {
                         "iso": "2024-12-22T15:00:00+00:00",
                         "tzid": "Europe/London",
@@ -234,6 +250,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "Event with different alarms at the same time",
                     "end": {
                         "iso": "2024-12-22T15:00:00+00:00",
                         "tzid": "Europe/London",
@@ -262,6 +280,8 @@
             {
                 "acknowledged": true,
                 "parent": {
+                    "DESCRIPTION": "",
+                    "SUMMARY": "Event with different alarms at the same time",
                     "end": {
                         "iso": "2024-12-22T15:00:00+00:00",
                         "tzid": "Europe/London",
@@ -291,6 +311,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Event with different alarms at the same time",
                 "end": {
                     "iso": "2024-12-20T15:00:00+00:00",
                     "tzid": "Europe/London",
@@ -310,6 +332,8 @@
                 "uid": "3e2471e6-af53-4ee5-bf64-fed13a01a61a"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Event with different alarms at the same time",
                 "end": {
                     "iso": "2024-12-21T15:00:00+00:00",
                     "tzid": "Europe/London",
@@ -329,6 +353,8 @@
                 "uid": "3e2471e6-af53-4ee5-bf64-fed13a01a61a"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "Event with different alarms at the same time",
                 "end": {
                     "iso": "2024-12-22T15:00:00+00:00",
                     "tzid": "Europe/London",

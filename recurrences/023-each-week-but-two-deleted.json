@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test6",
                 "end": {
                     "iso": "2019-03-04T01:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -29,6 +31,8 @@
                 "uid": "SX2CURHKFTKKFFU3VUD7K"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test6",
                 "end": {
                     "iso": "2019-03-18T01:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -48,6 +52,8 @@
                 "uid": "SX2CURHKFTKKFFU3VUD7K"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test6",
                 "end": {
                     "iso": "2019-04-01T01:00:00+02:00",
                     "tzid": "Europe/Berlin",
@@ -67,6 +73,8 @@
                 "uid": "SX2CURHKFTKKFFU3VUD7K"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test6",
                 "end": {
                     "iso": "2019-04-08T01:00:00+02:00",
                     "tzid": "Europe/Berlin",
@@ -86,6 +94,8 @@
                 "uid": "SX2CURHKFTKKFFU3VUD7K"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test6",
                 "end": {
                     "iso": "2019-04-15T01:00:00+02:00",
                     "tzid": "Europe/Berlin",
@@ -105,6 +115,8 @@
                 "uid": "SX2CURHKFTKKFFU3VUD7K"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test6",
                 "end": {
                     "iso": "2019-04-22T01:00:00+02:00",
                     "tzid": "Europe/Berlin",

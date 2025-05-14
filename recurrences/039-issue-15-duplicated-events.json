@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "This is an event",
                 "end": {
                     "iso": "2013-08-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -29,6 +31,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "This event is almost the same event",
                 "end": {
                     "iso": "2013-08-03T21:00:00+00:00",
                     "tzid": "UTC",
@@ -48,6 +52,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "This event is a little longer but starts at the same time",
                 "end": {
                     "iso": "2013-08-03T22:00:00+00:00",
                     "tzid": "UTC",

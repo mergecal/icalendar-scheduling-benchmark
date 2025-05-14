@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "The RDATE is a period with a duration.",
                 "end": {
                     "iso": "2024-09-12T13:00:00+00:00",
                     "tzid": "UTC",
@@ -29,6 +31,8 @@
                 "uid": ""
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "The RDATE is a period with a duration.",
                 "end": {
                     "iso": "2024-09-13T14:00:00+00:00",
                     "tzid": "UTC",

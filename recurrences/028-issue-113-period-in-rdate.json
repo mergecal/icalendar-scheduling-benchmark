@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "Test RDATE",
+                "SUMMARY": "Test RDATE",
                 "end": {
                     "iso": "2023-09-20T14:00:00-07:00",
                     "tzid": "America/Vancouver",
@@ -29,6 +31,8 @@
                 "uid": "1"
             },
             {
+                "DESCRIPTION": "Test RDATE",
+                "SUMMARY": "Test RDATE",
                 "end": {
                     "iso": "2023-10-18T14:00:00-07:00",
                     "tzid": "America/Vancouver",
@@ -48,6 +52,8 @@
                 "uid": "1"
             },
             {
+                "DESCRIPTION": "Test RDATE",
+                "SUMMARY": "Test RDATE",
                 "end": {
                     "iso": "2023-11-15T14:00:00-08:00",
                     "tzid": "America/Vancouver",
@@ -67,6 +73,8 @@
                 "uid": "1"
             },
             {
+                "DESCRIPTION": "Test RDATE",
+                "SUMMARY": "Test RDATE",
                 "end": {
                     "iso": "2023-12-13T15:00:00-08:00",
                     "tzid": "America/Vancouver",
@@ -86,6 +94,8 @@
                 "uid": "1"
             },
             {
+                "DESCRIPTION": "Test RDATE",
+                "SUMMARY": "Test RDATE",
                 "end": {
                     "iso": "2024-01-17T14:00:00-08:00",
                     "tzid": "America/Vancouver",
@@ -105,6 +115,8 @@
                 "uid": "1"
             },
             {
+                "DESCRIPTION": "Test RDATE",
+                "SUMMARY": "Test RDATE",
                 "end": {
                     "iso": "2024-02-21T14:00:00-08:00",
                     "tzid": "America/Vancouver",
@@ -124,6 +136,8 @@
                 "uid": "1"
             },
             {
+                "DESCRIPTION": "Test RDATE",
+                "SUMMARY": "Test RDATE",
                 "end": {
                     "iso": "2024-03-20T14:00:00-07:00",
                     "tzid": "America/Vancouver",
@@ -143,6 +157,8 @@
                 "uid": "1"
             },
             {
+                "DESCRIPTION": "Test RDATE",
+                "SUMMARY": "Test RDATE",
                 "end": {
                     "iso": "2024-04-17T14:00:00-07:00",
                     "tzid": "America/Vancouver",
@@ -162,6 +178,8 @@
                 "uid": "1"
             },
             {
+                "DESCRIPTION": "Test RDATE",
+                "SUMMARY": "Test RDATE",
                 "end": {
                     "iso": "2024-05-15T14:00:00-07:00",
                     "tzid": "America/Vancouver",

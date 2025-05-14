@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2025-04-23T10:00:00+01:00",
                     "tzid": "Europe/London",
@@ -29,6 +31,8 @@
                 "uid": "b143dcdc-2154-49a8-abea-5c64310ebabd"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2025-04-24T12:00:00+01:00",
                     "tzid": "Europe/London",
@@ -48,6 +52,8 @@
                 "uid": "b143dcdc-2154-49a8-abea-5c64310ebabd"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2025-04-25T10:00:00+01:00",
                     "tzid": "Europe/London",
@@ -67,6 +73,8 @@
                 "uid": "b143dcdc-2154-49a8-abea-5c64310ebabd"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2025-04-26T10:00:00+01:00",
                     "tzid": "Europe/London",
@@ -86,6 +94,8 @@
                 "uid": "b143dcdc-2154-49a8-abea-5c64310ebabd"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "event",
                 "end": {
                     "iso": "2025-04-27T10:00:00+01:00",
                     "tzid": "Europe/London",

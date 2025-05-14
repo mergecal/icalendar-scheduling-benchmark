@@ -10,6 +10,8 @@
             {
                 "acknowledged": false,
                 "parent": {
+                    "DESCRIPTION": "Event",
+                    "SUMMARY": "Event with an alarm 1 week before this starts",
                     "end": {
                         "iso": "2024-12-09T12:00:00+00:00",
                         "tzid": "Europe/London",
@@ -38,6 +40,8 @@
             {
                 "acknowledged": false,
                 "parent": {
+                    "DESCRIPTION": "Event",
+                    "SUMMARY": "Event with an alarm 1 week before this starts",
                     "end": {
                         "iso": "2024-12-09T12:00:00+00:00",
                         "tzid": "Europe/London",
@@ -67,6 +71,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "Event",
+                "SUMMARY": "Event with an alarm 1 week before this starts",
                 "end": {
                     "iso": "2024-12-09T12:00:00+00:00",
                     "tzid": "Europe/London",

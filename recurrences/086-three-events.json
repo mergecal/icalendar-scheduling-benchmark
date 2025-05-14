@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test4",
                 "end": {
                     "iso": "2019-03-04T01:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -29,6 +31,8 @@
                 "uid": "UYDQSG9TH4DE0WM3QFL2J"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test4",
                 "end": {
                     "iso": "2019-03-07T01:00:00+01:00",
                     "tzid": "Europe/Berlin",
@@ -48,6 +52,8 @@
                 "uid": "UYDQSG9TH4DE0WM3QFL2J"
             },
             {
+                "DESCRIPTION": "",
+                "SUMMARY": "test4",
                 "end": {
                     "iso": "2019-03-10T01:00:00+01:00",
                     "tzid": "Europe/Berlin",

@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "New Year's Day",
                 "end": {
                     "iso": "2019-01-01",
                     "tzid": null,
@@ -29,6 +31,8 @@
                 "uid": "5e3a8f312427a1580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/spain/epiphany.php to know more about Epiphany. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Epiphany",
                 "end": {
                     "iso": "2019-01-06",
                     "tzid": null,
@@ -48,6 +52,8 @@
                 "uid": "5e3a8f31242de1580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/brazil/carnival.php to know more about Carnival. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Carnival",
                 "end": {
                     "iso": "2019-03-05",
                     "tzid": null,
@@ -67,6 +73,8 @@
                 "uid": "5e3a8f312433a1580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Good Friday",
                 "end": {
                     "iso": "2019-04-19",
                     "tzid": null,
@@ -86,6 +94,8 @@
                 "uid": "5e3a8f31243901580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Easter Sunday",
                 "end": {
                     "iso": "2019-04-21",
                     "tzid": null,
@@ -105,6 +115,8 @@
                 "uid": "5e3a8f31243e91580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Easter Monday",
                 "end": {
                     "iso": "2019-04-22",
                     "tzid": null,
@@ -124,6 +136,8 @@
                 "uid": "5e3a8f31244431580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Labor Day",
                 "end": {
                     "iso": "2019-05-01",
                     "tzid": null,
@@ -143,6 +157,8 @@
                 "uid": "5e3a8f312449c1580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/romania/ascension-day.php to know more about Ascension Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Ascension Day",
                 "end": {
                     "iso": "2019-05-30",
                     "tzid": null,
@@ -162,6 +178,8 @@
                 "uid": "5e3a8f31244f81580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/germany/pentecost-monday.php to know more about Whit Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Whit Monday",
                 "end": {
                     "iso": "2019-06-10",
                     "tzid": null,
@@ -181,6 +199,8 @@
                 "uid": "5e3a8f31245501580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/us/corpus-christi.php to know more about Corpus Christi. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Corpus Christi",
                 "end": {
                     "iso": "2019-06-20",
                     "tzid": null,
@@ -200,6 +220,8 @@
                 "uid": "5e3a8f31245aa1580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/us/the-assumption-of-mary.php to know more about Assumption Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Assumption Day",
                 "end": {
                     "iso": "2019-08-15",
                     "tzid": null,
@@ -219,6 +241,8 @@
                 "uid": "5e3a8f312460b1580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/germany/unity-day.php to know more about Unity Day (National). Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Unity Day (National)",
                 "end": {
                     "iso": "2019-10-03",
                     "tzid": null,
@@ -238,6 +262,8 @@
                 "uid": "5e3a8f31246691580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/germany/reformation-day.php to know more about Reformation Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Reformation Day",
                 "end": {
                     "iso": "2019-10-31",
                     "tzid": null,
@@ -257,6 +283,8 @@
                 "uid": "5e3a8f31246e21580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/philippines/all-saints-day.php to know more about All Saints Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "All Saints Day",
                 "end": {
                     "iso": "2019-11-01",
                     "tzid": null,
@@ -276,6 +304,8 @@
                 "uid": "5e3a8f31247411580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/germany/national-day-of-mourning.php to know more about National Day of Mourning. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "National Day of Mourning",
                 "end": {
                     "iso": "2019-11-17",
                     "tzid": null,
@@ -295,6 +325,8 @@
                 "uid": "5e3a8f31247a21580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Christmas Day",
                 "end": {
                     "iso": "2019-12-25",
                     "tzid": null,
@@ -314,6 +346,8 @@
                 "uid": "5e3a8f31248001580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/canada/boxing-day.php to know more about Boxing Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Boxing Day",
                 "end": {
                     "iso": "2019-12-26",
                     "tzid": null,
@@ -333,6 +367,8 @@
                 "uid": "5e3a8f312485a1580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "New Year's Day",
                 "end": {
                     "iso": "2020-01-01",
                     "tzid": null,
@@ -352,6 +388,8 @@
                 "uid": "5e3a8f31248b51580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/spain/epiphany.php to know more about Epiphany (BW, BY & ST). Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Epiphany (BW, BY & ST)",
                 "end": {
                     "iso": "2020-01-06",
                     "tzid": null,
@@ -371,6 +409,8 @@
                 "uid": "5e3a8f312491a1580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/brazil/carnival.php to know more about Carnival. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Carnival",
                 "end": {
                     "iso": "2020-02-25",
                     "tzid": null,
@@ -390,6 +430,8 @@
                 "uid": "5e3a8f312497e1580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Good Friday",
                 "end": {
                     "iso": "2020-04-10",
                     "tzid": null,
@@ -409,6 +451,8 @@
                 "uid": "5e3a8f31249e41580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Easter Sunday",
                 "end": {
                     "iso": "2020-04-12",
                     "tzid": null,
@@ -428,6 +472,8 @@
                 "uid": "5e3a8f3124a431580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Easter Monday",
                 "end": {
                     "iso": "2020-04-13",
                     "tzid": null,
@@ -447,6 +493,8 @@
                 "uid": "5e3a8f3124aa51580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Labor Day",
                 "end": {
                     "iso": "2020-05-01",
                     "tzid": null,
@@ -466,6 +514,8 @@
                 "uid": "5e3a8f3124b021580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/romania/ascension-day.php to know more about Ascension Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Ascension Day",
                 "end": {
                     "iso": "2020-05-21",
                     "tzid": null,
@@ -485,6 +535,8 @@
                 "uid": "5e3a8f3124b5f1580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/germany/pentecost-monday.php to know more about Whit Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Whit Monday",
                 "end": {
                     "iso": "2020-06-01",
                     "tzid": null,
@@ -504,6 +556,8 @@
                 "uid": "5e3a8f3124bc41580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/us/corpus-christi.php to know more about Corpus Christi. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Corpus Christi",
                 "end": {
                     "iso": "2020-06-11",
                     "tzid": null,
@@ -523,6 +577,8 @@
                 "uid": "5e3a8f3124c291580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/us/the-assumption-of-mary.php to know more about Assumption Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Assumption Day",
                 "end": {
                     "iso": "2020-08-15",
                     "tzid": null,
@@ -542,6 +598,8 @@
                 "uid": "5e3a8f3124c891580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/germany/unity-day.php to know more about Unity Day (National). Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Unity Day (National)",
                 "end": {
                     "iso": "2020-10-03",
                     "tzid": null,
@@ -561,6 +619,8 @@
                 "uid": "5e3a8f3124ceb1580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/germany/reformation-day.php to know more about Reformation Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Reformation Day",
                 "end": {
                     "iso": "2020-10-31",
                     "tzid": null,
@@ -580,6 +640,8 @@
                 "uid": "5e3a8f3124d521580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/philippines/all-saints-day.php to know more about All Saints Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "All Saints Day",
                 "end": {
                     "iso": "2020-11-01",
                     "tzid": null,
@@ -599,6 +661,8 @@
                 "uid": "5e3a8f3124dbe1580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/germany/national-day-of-mourning.php to know more about National Day of Mourning. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "National Day of Mourning",
                 "end": {
                     "iso": "2020-11-15",
                     "tzid": null,
@@ -618,6 +682,8 @@
                 "uid": "5e3a8f3124e231580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Christmas Day",
                 "end": {
                     "iso": "2020-12-25",
                     "tzid": null,
@@ -637,6 +703,8 @@
                 "uid": "5e3a8f3124e841580896049@calendarlabs.com"
             },
             {
+                "DESCRIPTION": "Visit https://calendarlabs.com/holidays/canada/boxing-day.php to know more about Boxing Day. Like us on Facebook: http://fb.com/calendarlabs to get updates",
+                "SUMMARY": "Boxing Day",
                 "end": {
                     "iso": "2020-12-26",
                     "tzid": null,

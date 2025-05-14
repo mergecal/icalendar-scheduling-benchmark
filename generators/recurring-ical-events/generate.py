@@ -40,6 +40,8 @@ def component_to_json(component: Component):
         "recurrence-id": date_to_json(recurrence_datetime),
         "uid": component.get("uid", ""),
         "sequence": component.get("sequence", 0),
+        "DESCRIPTION": component.get("description", ""),
+        "SUMMARY": component.get("summary", ""),
     }
     if component.name != "VJOURNAL":
         result["end"] = date_to_json(component.end)

@@ -10,6 +10,8 @@
         "calendar": "",
         "events": [
             {
+                "DESCRIPTION": "blabla",
+                "SUMMARY": "blabla",
                 "end": {
                     "iso": "2019-08-01T15:00:00+01:00",
                     "tzid": "Europe/London",
@@ -29,6 +31,8 @@
                 "uid": "blabla"
             },
             {
+                "DESCRIPTION": "blabla",
+                "SUMMARY": "blabla",
                 "end": {
                     "iso": "2019-08-08T15:00:00+01:00",
                     "tzid": "Europe/London",
@@ -48,6 +52,8 @@
                 "uid": "blabla"
             },
             {
+                "DESCRIPTION": "blabla",
+                "SUMMARY": "blabla",
                 "end": {
                     "iso": "2019-08-15T15:00:00+01:00",
                     "tzid": "Europe/London",
@@ -67,6 +73,8 @@
                 "uid": "blabla"
             },
             {
+                "DESCRIPTION": "blabla",
+                "SUMMARY": "blabla",
                 "end": {
                     "iso": "2019-08-22T15:00:00+01:00",
                     "tzid": "Europe/London",
@@ -86,6 +94,8 @@
                 "uid": "blabla"
             },
             {
+                "DESCRIPTION": "blabla",
+                "SUMMARY": "blabla",
                 "end": {
                     "iso": "2019-08-29T15:00:00+01:00",
                     "tzid": "Europe/London",
@@ -105,6 +115,8 @@
                 "uid": "blabla"
             },
             {
+                "DESCRIPTION": "blabla",
+                "SUMMARY": "blabla",
                 "end": {
                     "iso": "2019-09-05T15:00:00+01:00",
                     "tzid": "Europe/London",
@@ -124,6 +136,8 @@
                 "uid": "blabla"
             },
             {
+                "DESCRIPTION": "blabla",
+                "SUMMARY": "blabla",
                 "end": {
                     "iso": "2019-09-12T15:00:00+01:00",
                     "tzid": "Europe/London",
@@ -143,6 +157,8 @@
                 "uid": "blabla"
             },
             {
+                "DESCRIPTION": "blabla",
+                "SUMMARY": "blabla",
                 "end": {
                     "iso": "2019-09-19T15:00:00+01:00",
                     "tzid": "Europe/London",
@@ -162,6 +178,8 @@
                 "uid": "blabla"
             },
             {
+                "DESCRIPTION": "blabla",
+                "SUMMARY": "blabla",
                 "end": {
                     "iso": "2019-09-26T15:00:00+01:00",
                     "tzid": "Europe/London",
@@ -181,6 +199,8 @@
                 "uid": "blabla"
             },
             {
+                "DESCRIPTION": "blabla",
+                "SUMMARY": "blabla",
                 "end": {
                     "iso": "2019-10-03T15:00:00+01:00",
                     "tzid": "Europe/London",
@@ -200,6 +220,8 @@
                 "uid": "blabla"
             },
             {
+                "DESCRIPTION": "blabla",
+                "SUMMARY": "blabla",
                 "end": {
                     "iso": "2019-10-10T15:00:00+01:00",
                     "tzid": "Europe/London",
@@ -219,6 +241,8 @@
                 "uid": "blabla"
             },
             {
+                "DESCRIPTION": "blabla",
+                "SUMMARY": "blabla",
                 "end": {
                     "iso": "2019-10-17T15:00:00+01:00",
                     "tzid": "Europe/London",
